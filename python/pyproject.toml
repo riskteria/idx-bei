@@ -14,6 +14,7 @@ dependencies = [
     "sqlalchemy>=2.0.41",
     "tqdm>=4.67.1",
     "yfinance>=0.2.59",
+    "curl_cffi>=0.7.4",
 ]
 
 [dependency-groups]
