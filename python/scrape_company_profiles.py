@@ -1,158 +1,164 @@
-from curl_cffi import requests
-import json
 import os
 import time
+import json
+import sys
+from curl_cffi import requests
 
-# Base URL for IDX API
+# Configuration
 BASE_URL = "https://www.idx.co.id/primary"
+COMPANY_PROFILES_ENDPOINT = "/ListedCompany/GetCompanyProfiles"
+COMPANY_DETAIL_ENDPOINT = "/ListedCompany/GetCompanyProfilesDetail"
 
-def get_company_profiles():
-    """Get all company profiles"""
-    url = f"{BASE_URL}/ListedCompany/GetCompanyProfiles?start=0&length=9999"
-    headers = {
-        "accept": "application/json, text/plain, */*",
-        "referer": "https://www.idx.co.id/"
-    }
+# Headers
+headers = {
+    "accept": "application/json, text/plain, */*",
+    "Referer": "https://www.idx.co.id/id/perusahaan-tercatat/profil-perusahaan/" 
+}
 
-    print(f"Fetching company profiles from {url}...")
+# File Paths (relative to the python/ directory)
+DATA_DIR = os.path.join(os.path.dirname(__file__), '../data')
+ALL_COMPANIES_FILE = os.path.join(DATA_DIR, 'allCompanies.json')
+COMPANY_DETAILS_FILE = os.path.join(DATA_DIR, 'companyDetailsByKodeEmiten.json')
+
+# Rate limiting/error handling constants
+REQUEST_DELAY_SECONDS = 1  # Delay between successful requests to prevent hammering
+ERROR_SLEEP_SECONDS = 5 * 60 # 5 minutes sleep on error, following JS example structure
+
+def ensure_data_dir():
+    """Ensures the data directory exists."""
+    os.makedirs(DATA_DIR, exist_ok=True)
+
+def fetch_data(url):
+    """Generic function to fetch data from a given URL."""
+    print(f"Fetching {url}...")
     try:
+        # impersonate="chrome" is usually sufficient to bypass basic Cloudflare checks
         response = requests.get(
-            url,
-            headers=headers,
+            url, 
+            headers=headers, 
             impersonate="chrome",
             timeout=30
         )
-
-        print(f"Status Code: {response.status_code}")
-
+        
         if response.status_code == 200:
             try:
                 data = response.json()
-                print(f"Successfully fetched {len(data.get('data', []))} companies")
+                print(f"Status: {response.status_code}. Successfully parsed JSON.")
+                # print(json.dumps(data, indent=2)[:500] + "...")
                 return data
             except json.JSONDecodeError:
-                print("Failed to decode JSON. Response text snippet:")
-                print(response.text[:500])
-                return None
+                print(f"Status: {response.status_code}. Failed to decode JSON. Snippet: {response.text[:500]}")
         else:
-            print("Request failed. Response snippet:")
-            print(response.text[:500])
-            return None
-
+            print(f"Status: {response.status_code}. Request failed. Snippet: {response.text[:500]}")
+            
     except Exception as e:
         print(f"An error occurred: {e}")
-        return None
+        
+    return None
 
-def get_company_detail(kode_emiten):
-    """Get detailed information for a specific company"""
-    url = f"{BASE_URL}/ListedCompany/GetCompanyProfilesDetail?KodeEmiten={kode_emiten}&language=id-id"
-    headers = {
-        "accept": "application/json, text/plain, */*",
-        "referer": "https://www.idx.co.id/"
-    }
+def fetch_all_company_profiles():
+    """Fetches a list of all listed companies."""
+    url = f"{BASE_URL}{COMPANY_PROFILES_ENDPOINT}?start=0&length=9999"
+    return fetch_data(url)
 
-    print(f"Fetching details for {kode_emiten}...")
+def fetch_company_profile_detail(kode_emiten, language='id-id'):
+    """Fetches the company profile details for a given KodeEmiten."""
+    url = f"{BASE_URL}{COMPANY_DETAIL_ENDPOINT}?KodeEmiten={kode_emiten}&language={language}"
+    return fetch_data(url)
+
+def load_or_initialize_json(file_path, default_value={}):
+    """Loads JSON data from a file or returns a default value if the file does not exist."""
+    if os.path.exists(file_path):
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+                return json.loads(content) if content else default_value
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Error loading {file_path}. Initializing with default. Error: {e}")
+            return default_value
+    return default_value
+
+def save_json(file_path, data):
+    """Saves data to a JSON file."""
     try:
-        response = requests.get(
-            url,
-            headers=headers,
-            impersonate="chrome",
-            timeout=30
-        )
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2)
+        print(f"Successfully saved data to {os.path.basename(file_path)}")
+    except IOError as e:
+        print(f"Error saving data to {file_path}: {e}")
 
-        if response.status_code == 200:
-            try:
-                data = response.json()
-                return data
-            except json.JSONDecodeError:
-                print(f"Failed to decode JSON for {kode_emiten}")
-                return None
-        else:
-            print(f"Request failed for {kode_emiten}: {response.status_code}")
-            return None
-
-    except Exception as e:
-        print(f"Error fetching details for {kode_emiten}: {e}")
-        return None
-
-def save_incrementally(data, filename):
-    """Save data incrementally to preserve existing data"""
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
-    else:
-        existing_data = {}
-
-    # Merge new data with existing
-    existing_data.update(data)
-
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, indent=2, ensure_ascii=False)
-
-    print(f"Saved {len(data)} new company details to {filename}")
-
-def main():
-    # Load existing companies if file exists
-    companies_file = "../data/allCompanies.json"
-    details_file = "../data/companyDetailsByKodeEmiten.json"
-
-    if not os.path.exists(companies_file):
-        print("Fetching all company profiles first...")
-        companies_data = get_company_profiles()
-        if companies_data:
-            with open(companies_file, 'w', encoding='utf-8') as f:
-                json.dump(companies_data, f, indent=2, ensure_ascii=False)
-            print(f"Saved {len(companies_data.get('data', []))} companies to {companies_file}")
-        else:
-            print("Failed to fetch company profiles")
+def scrape_company_data():
+    """Orchestrates the scraping, loading, and saving of company data."""
+    ensure_data_dir()
+    
+    # 1. Fetch or load all companies list
+    print("--- Step 1: Fetching all company profiles list ---")
+    all_companies_data = load_or_initialize_json(ALL_COMPANIES_FILE)
+    
+    if not all_companies_data or 'data' not in all_companies_data:
+        # If file doesn't exist or is empty, fetch it
+        all_companies_data = fetch_all_company_profiles()
+        if not all_companies_data or 'data' not in all_companies_data:
+            print("Failed to fetch all company profiles. Aborting.")
             return
-    else:
-        with open(companies_file, 'r', encoding='utf-8') as f:
-            companies_data = json.load(f)
 
-    # Load existing details
-    if os.path.exists(details_file):
-        with open(details_file, 'r', encoding='utf-8') as f:
-            existing_details = json.load(f)
-        print(f"Loaded {len(existing_details)} existing company details")
+        print(f"Found {all_companies_data.get('recordsTotal', len(all_companies_data['data']))} total companies.")
+        save_json(ALL_COMPANIES_FILE, all_companies_data)
     else:
-        existing_details = {}
+        print(f"Loaded {all_companies_data.get('recordsTotal', len(all_companies_data['data']))} existing company records from {os.path.basename(ALL_COMPANIES_FILE)}")
 
-    # Process companies
-    companies = companies_data.get('data', [])
-    new_details = {}
+
+    # 2. Fetch company details incrementally
+    print("\n--- Step 2: Fetching individual company details ---")
+    kode_emiten_json = load_or_initialize_json(COMPANY_DETAILS_FILE)
+    companies_to_process = all_companies_data.get('data', [])
     processed_count = 0
+    
+    print(f"Loaded {len(kode_emiten_json)} existing company details from {os.path.basename(COMPANY_DETAILS_FILE)}")
+    print(f"Total companies in list: {len(companies_to_process)}")
 
-    for company in companies:
+    for i, company in enumerate(companies_to_process):
         kode_emiten = company.get('KodeEmiten')
+        nama_emiten = company.get('NamaEmiten', 'N/A')
 
         if not kode_emiten:
+            print(f"Skipping record {i} due to missing KodeEmiten.")
+            continue
+            
+        if kode_emiten in kode_emiten_json:
+            print(f"[{i+1}/{len(companies_to_process)}] Skipping already processed {kode_emiten} ({nama_emiten}).")
             continue
 
-        # Skip if already processed
-        if kode_emiten in existing_details:
-            print(f"Skipping already processed {kode_emiten}")
-            continue
+        print(f"[{i+1}/{len(companies_to_process)}] Fetching details for {kode_emiten} ({nama_emiten})...")
 
-        # Fetch company details
-        detail = get_company_detail(kode_emiten)
-        if detail:
-            new_details[kode_emiten] = detail
-            processed_count += 1
+        try:
+            details = fetch_company_profile_detail(kode_emiten)
+            
+            if details:
+                kode_emiten_json[kode_emiten] = details
+                # Save incrementally
+                save_json(COMPANY_DETAILS_FILE, kode_emiten_json)
+                processed_count += 1
+                
+                # Apply rate limit delay after a successful request
+                print(f"Waiting for {REQUEST_DELAY_SECONDS} seconds...")
+                time.sleep(REQUEST_DELAY_SECONDS) 
 
-            # Save incrementially every 5 companies or at the end
-            if processed_count % 5 == 0 or processed_count == len(companies):
-                save_incrementally(new_details, details_file)
-                new_details = {}  # Clear after saving
+            else:
+                raise Exception("Failed to retrieve company details.")
+                
+        except Exception as company_error:
+            print(f"Error processing {kode_emiten}: {company_error}")
+            
+            print(f"Sleeping for {ERROR_SLEEP_SECONDS/60} minutes due to error at {time.ctime()}...")
+            time.sleep(ERROR_SLEEP_SECONDS)
+            print(f"Woke up at {time.ctime()}. Resuming loop.")
+            
+        print("-----------------------------------")
 
-        # Rate limiting - wait between requests
-        time.sleep(1)  # 1 second between requests
 
-    # Save any remaining details
-    if new_details:
-        save_incrementally(new_details, details_file)
+    print(f"\nData collection completed. {processed_count} new companies processed.")
 
-    print(f"\nCompleted! Processed {processed_count} new company details")
 
 if __name__ == "__main__":
-    main()
+    scrape_company_data()
