@@ -92,6 +92,7 @@
     border: 1px solid var(--border);
     border-radius: 10px;
     background: var(--surface);
+    margin-bottom: 24px;
   }
   table {
     width: 100%;
@@ -99,7 +100,11 @@
     font-size: .82rem;
     white-space: nowrap;
   }
-  thead { position: sticky; top: 0; z-index: 2; }
+  thead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
   th {
     background: var(--surface2);
     color: var(--text-muted);
@@ -112,6 +117,7 @@
     border-bottom: 1px solid var(--border);
     cursor: pointer;
     user-select: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.4);
   }
   th:hover { color: var(--text); }
   th .sort-arrow { margin-left: 4px; font-size: .65rem; }
@@ -211,28 +217,26 @@
 const DATA_FILE = 'structured_warrants_combined.json';
 
 const COLUMNS = [
-  { key: 'KodeSW',             label: 'Kode SW',        sortable: true,  type: 'string' },
-  { key: 'Underlying',         label: 'Underlying',     sortable: true,  type: 'string' },
-  { key: 'SWType',             label: 'Type',           sortable: true,  type: 'string' },
-  { key: 'Issuer',             label: 'Issuer',         sortable: true,  type: 'string' },
-  { key: 'ExercisePrice',      label: 'Exercise Price', sortable: true,  type: 'number' },
-  { key: 'ExerciseRatio',      label: 'Ratio',          sortable: false, type: 'string' },
-  { key: 'underlyingClose',    label: 'Underlying Price', sortable: true,  type: 'number' },
-  { key: 'underlyingOHLC',     label: 'O / H / L',     sortable: false, type: 'string' },
-  { key: 'warrantLast',        label: 'Warrant Price',  sortable: true,  type: 'number' },
-  { key: 'warrantChange',      label: 'Change',         sortable: true,  type: 'number' },
-  { key: 'warrantVolume',      label: 'W.Volume',       sortable: true,  type: 'number' },
-  { key: 'warrantBidOffer',    label: 'Bid / Offer',    sortable: false, type: 'string' },
-  { key: 'intrinsicValue',     label: 'Intrinsic Val',  sortable: true,  type: 'number' },
-  { key: 'moneynessPercent',   label: 'Moneyness %',    sortable: true,  type: 'number' },
-  { key: 'isInTheMoney',       label: 'Status',         sortable: true,  type: 'string' },
-  { key: 'TimetoLastTradingDate', label: 'Days Left',   sortable: true,  type: 'number' },
-  { key: 'FirstTradingDate',   label: 'First Trade',    sortable: true,  type: 'string' },
-  { key: 'LastTradingDate',    label: 'Last Trade',     sortable: true,  type: 'string' },
+  { key: 'KodeSW',             label: 'Kode SW',           sortable: true,  type: 'string' },
+  { key: 'Underlying',         label: 'Underlying',        sortable: true,  type: 'string' },
+  { key: 'SWType',             label: 'Type',              sortable: true,  type: 'string' },
+  { key: 'underlyingClose',    label: 'Stock Price',       sortable: true,  type: 'number' },
+  { key: 'ExercisePrice',      label: 'Strike',            sortable: true,  type: 'number' },
+  { key: 'ExerciseRatio',      label: 'Ratio',             sortable: false, type: 'string' },
+  { key: 'warrantLast',        label: 'Warrant Price',     sortable: true,  type: 'number' },
+  { key: 'warrantChange',      label: 'W.Change',          sortable: true,  type: 'number' },
+  { key: 'intrinsicValue',     label: 'Intrinsic',         sortable: true,  type: 'number' },
+  { key: 'potentialGainLoss',  label: 'P/L Potential %',   sortable: true,  type: 'number' },
+  { key: 'moneynessPercent',   label: 'Moneyness %',       sortable: true,  type: 'number' },
+  { key: 'isInTheMoney',       label: 'Status',            sortable: true,  type: 'string' },
+  { key: 'TimetoLastTradingDate', label: 'Days Left',      sortable: true,  type: 'number' },
+  { key: 'Issuer',             label: 'Issuer',            sortable: true,  type: 'string' },
+  { key: 'FirstTradingDate',   label: 'First Trade',       sortable: true,  type: 'string' },
+  { key: 'LastTradingDate',    label: 'Expiry',            sortable: true,  type: 'string' },
 ];
 
 let allData = [];
-let sortCol = 'moneynessPercent';
+let sortCol = 'potentialGainLoss';
 let sortDir = -1; // desc
 
 function fmt(n) {
@@ -255,28 +259,23 @@ function flattenRow(r) {
   const o = r.UnderlyingOHLC || {};
   const m = r.WarrantMetrics || {};
   const w = r.WarrantPrice || {};
+  
+  // Calculate potential gain/loss %
+  // P/L = (intrinsic_value - warrant_price) / warrant_price * 100
+  let potentialGainLoss = null;
+  if (m.intrinsicValue != null && w.last != null && w.last > 0) {
+    potentialGainLoss = ((m.intrinsicValue - w.last) / w.last) * 100;
+  }
+  
   return {
     ...r,
     underlyingClose: o.close ?? null,
-    underlyingOpen: o.open ?? null,
-    underlyingHigh: o.high ?? null,
-    underlyingLow: o.low ?? null,
-    underlyingVolume: o.volume ?? null,
-    underlyingOHLC: o.open != null ? `${fmt(o.open)} / ${fmt(o.high)} / ${fmt(o.low)}` : '-',
     warrantLast: w.last ?? null,
-    warrantOpen: w.open ?? null,
-    warrantHigh: w.high ?? null,
-    warrantLow: w.low ?? null,
     warrantChange: w.change ?? null,
     warrantPercentChange: w.percentChange ?? null,
-    warrantBid: w.bid ?? null,
-    warrantOffer: w.offer ?? null,
-    warrantVolume: w.volume ?? null,
-    warrantValue: w.value ?? null,
-    warrantTradeDate: w.tradeDate ?? null,
-    warrantBidOffer: (w.bid != null || w.offer != null) ? `${w.bid || 0} / ${w.offer || 0}` : '-',
     intrinsicValue: m.intrinsicValue ?? null,
     intrinsicValueAdj: m.intrinsicValueAdjusted ?? null,
+    potentialGainLoss: potentialGainLoss,
     moneynessPercent: m.moneynessPercent ?? null,
     isInTheMoney: m.isInTheMoney ?? null,
     exerciseRatioNumeric: m.exerciseRatioNumeric ?? null,
@@ -295,8 +294,7 @@ function renderStats(data, stats) {
     { label: 'Put Warrants', value: stats.putWarrants, cls: 'red' },
     { label: 'In the Money', value: stats.inTheMoney, cls: 'green' },
     { label: 'Out of the Money', value: stats.outOfTheMoney, cls: 'red' },
-    { label: 'With Volume', value: stats.withVolume, cls: 'yellow' },
-    { label: 'OHLC Date', value: data.ohlcFetchedAt ? data.ohlcFetchedAt.split(' ')[0] : '-', cls: 'purple' },
+    { label: 'With Prices', value: data.withPrices || stats.withPrices || '-', cls: 'yellow' },
   ];
   el.innerHTML = cards.map(c => `
     <div class="stat-card">
@@ -346,14 +344,14 @@ function renderCell(row, col) {
       const chCls = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
       const pct = row.warrantPercentChange != null ? ` (${row.warrantPercentChange.toFixed(2)}%)` : '';
       return `<span class="moneyness ${chCls}" style="font-size:0.8rem">${v > 0 ? '+' : ''}${v}${pct}</span>`;
-    case 'warrantVolume':
-      return `<span class="vol right">${fmtVol(v)}</span>`;
-    case 'underlyingVolume':
-      return `<span class="vol right">${fmtVol(v)}</span>`;
     case 'intrinsicValue':
       if (v == null) return '-';
       const cls = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
       return `<span class="moneyness ${cls}">${fmt(v)}</span>`;
+    case 'potentialGainLoss':
+      if (v == null) return '-';
+      const plCls = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
+      return `<span class="moneyness ${plCls}" style="font-weight:700">${v > 0 ? '+' : ''}${v.toFixed(2)}%</span>`;
     case 'moneynessPercent':
       if (v == null) return '-';
       const mc = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
