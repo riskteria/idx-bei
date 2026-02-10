@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IDX Structured Warrants Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --surface2: #22262f;
+    --border: #2e3240;
+    --text: #e4e6eb;
+    --text-muted: #8b8fa3;
+    --green: #22c55e;
+    --green-bg: rgba(34,197,94,.12);
+    --red: #ef4444;
+    --red-bg: rgba(239,68,68,.12);
+    --blue: #3b82f6;
+    --blue-bg: rgba(59,130,246,.12);
+    --yellow: #eab308;
+    --yellow-bg: rgba(234,179,8,.12);
+    --purple: #a855f7;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    padding: 24px;
+  }
+  .header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 24px; flex-wrap: wrap; gap: 12px;
+  }
+  .header h1 { font-size: 1.5rem; font-weight: 700; }
+  .header .meta { color: var(--text-muted); font-size: .85rem; }
+
+  /* Stats Cards */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .stat-card .label { font-size: .75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: .5px; }
+  .stat-card .value { font-size: 1.6rem; font-weight: 700; margin-top: 4px; }
+  .stat-card .value.green { color: var(--green); }
+  .stat-card .value.red { color: var(--red); }
+  .stat-card .value.blue { color: var(--blue); }
+  .stat-card .value.yellow { color: var(--yellow); }
+
+  /* Filters */
+  .filters {
+    display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; align-items: center;
+  }
+  .filters input, .filters select {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: .85rem;
+    outline: none;
+  }
+  .filters input:focus, .filters select:focus { border-color: var(--blue); }
+  .filters input { width: 260px; }
+  .filters select { min-width: 130px; cursor: pointer; }
+  .filters label {
+    font-size: .8rem; color: var(--text-muted);
+    display: flex; align-items: center; gap: 6px; cursor: pointer;
+  }
+  .filters input[type="checkbox"] {
+    width: auto; accent-color: var(--blue);
+  }
+
+  /* Sort Controls */
+  .sort-info {
+    font-size: .8rem; color: var(--text-muted); margin-bottom: 10px;
+  }
+
+  /* Table */
+  .table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--surface);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: .82rem;
+    white-space: nowrap;
+  }
+  thead { position: sticky; top: 0; z-index: 2; }
+  th {
+    background: var(--surface2);
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: .7rem;
+    letter-spacing: .4px;
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+  }
+  th:hover { color: var(--text); }
+  th .sort-arrow { margin-left: 4px; font-size: .65rem; }
+  td {
+    padding: 9px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(255,255,255,.03); }
+
+  /* Badges */
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: .72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .badge-call { background: var(--green-bg); color: var(--green); }
+  .badge-put { background: var(--red-bg); color: var(--red); }
+  .badge-itm { background: var(--green-bg); color: var(--green); }
+  .badge-otm { background: var(--red-bg); color: var(--red); }
+
+  /* Pill for moneyness */
+  .moneyness {
+    font-weight: 600;
+    font-size: .8rem;
+  }
+  .moneyness.positive { color: var(--green); }
+  .moneyness.negative { color: var(--red); }
+
+  .vol { color: var(--text-muted); font-size: .78rem; }
+  .price { font-variant-numeric: tabular-nums; }
+  .right { text-align: right; }
+
+  /* Footer */
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: .78rem;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    body { padding: 12px; }
+    .header h1 { font-size: 1.2rem; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .filters input { width: 100%; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>IDX Structured Warrants Dashboard</h1>
+    <div class="meta" id="metaInfo">Loading...</div>
+  </div>
+</div>
+
+<div class="stats" id="statsCards"></div>
+
+<div class="filters">
+  <input type="text" id="search" placeholder="Search by code, underlying, issuer...">
+  <select id="typeFilter">
+    <option value="">All Types</option>
+    <option value="call">Call</option>
+    <option value="put">Put</option>
+  </select>
+  <select id="statusFilter">
+    <option value="">All Status</option>
+    <option value="itm">In the Money</option>
+    <option value="otm">Out of the Money</option>
+  </select>
+  <select id="issuerFilter">
+    <option value="">All Issuers</option>
+  </select>
+  <label><input type="checkbox" id="hideExpiring"> Expiring &lt; 30 days</label>
+</div>
+
+<div class="sort-info" id="resultCount"></div>
+
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr id="tableHead"></tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+</div>
+
+<div class="footer" id="footer"></div>
+
+<script>
+const DATA_FILE = 'structured_warrants_combined.json';
+
+const COLUMNS = [
+  { key: 'KodeSW',             label: 'Kode SW',        sortable: true,  type: 'string' },
+  { key: 'Underlying',         label: 'Underlying',     sortable: true,  type: 'string' },
+  { key: 'SWType',             label: 'Type',           sortable: true,  type: 'string' },
+  { key: 'Issuer',             label: 'Issuer',         sortable: true,  type: 'string' },
+  { key: 'ExercisePrice',      label: 'Exercise Price', sortable: true,  type: 'number' },
+  { key: 'ExerciseRatio',      label: 'Ratio',          sortable: false, type: 'string' },
+  { key: 'underlyingClose',    label: 'Underlying Price', sortable: true,  type: 'number' },
+  { key: 'underlyingOHLC',     label: 'O / H / L',     sortable: false, type: 'string' },
+  { key: 'warrantLast',        label: 'Warrant Price',  sortable: true,  type: 'number' },
+  { key: 'warrantChange',      label: 'Change',         sortable: true,  type: 'number' },
+  { key: 'warrantVolume',      label: 'W.Volume',       sortable: true,  type: 'number' },
+  { key: 'warrantBidOffer',    label: 'Bid / Offer',    sortable: false, type: 'string' },
+  { key: 'intrinsicValue',     label: 'Intrinsic Val',  sortable: true,  type: 'number' },
+  { key: 'moneynessPercent',   label: 'Moneyness %',    sortable: true,  type: 'number' },
+  { key: 'isInTheMoney',       label: 'Status',         sortable: true,  type: 'string' },
+  { key: 'TimetoLastTradingDate', label: 'Days Left',   sortable: true,  type: 'number' },
+  { key: 'FirstTradingDate',   label: 'First Trade',    sortable: true,  type: 'string' },
+  { key: 'LastTradingDate',    label: 'Last Trade',     sortable: true,  type: 'string' },
+];
+
+let allData = [];
+let sortCol = 'moneynessPercent';
+let sortDir = -1; // desc
+
+function fmt(n) {
+  if (n == null) return '-';
+  return n.toLocaleString('id-ID');
+}
+function fmtDate(s) {
+  if (!s) return '-';
+  return s.replace('T00:00:00','');
+}
+function fmtVol(n) {
+  if (n == null) return '-';
+  if (n >= 1e9) return (n/1e9).toFixed(1) + 'B';
+  if (n >= 1e6) return (n/1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return (n/1e3).toFixed(1) + 'K';
+  return n.toString();
+}
+
+function flattenRow(r) {
+  const o = r.UnderlyingOHLC || {};
+  const m = r.WarrantMetrics || {};
+  const w = r.WarrantPrice || {};
+  return {
+    ...r,
+    underlyingClose: o.close ?? null,
+    underlyingOpen: o.open ?? null,
+    underlyingHigh: o.high ?? null,
+    underlyingLow: o.low ?? null,
+    underlyingVolume: o.volume ?? null,
+    underlyingOHLC: o.open != null ? `${fmt(o.open)} / ${fmt(o.high)} / ${fmt(o.low)}` : '-',
+    warrantLast: w.last ?? null,
+    warrantOpen: w.open ?? null,
+    warrantHigh: w.high ?? null,
+    warrantLow: w.low ?? null,
+    warrantChange: w.change ?? null,
+    warrantPercentChange: w.percentChange ?? null,
+    warrantBid: w.bid ?? null,
+    warrantOffer: w.offer ?? null,
+    warrantVolume: w.volume ?? null,
+    warrantValue: w.value ?? null,
+    warrantTradeDate: w.tradeDate ?? null,
+    warrantBidOffer: (w.bid != null || w.offer != null) ? `${w.bid || 0} / ${w.offer || 0}` : '-',
+    intrinsicValue: m.intrinsicValue ?? null,
+    intrinsicValueAdj: m.intrinsicValueAdjusted ?? null,
+    moneynessPercent: m.moneynessPercent ?? null,
+    isInTheMoney: m.isInTheMoney ?? null,
+    exerciseRatioNumeric: m.exerciseRatioNumeric ?? null,
+  };
+}
+
+function getValue(row, key) {
+  return row[key];
+}
+
+function renderStats(data, stats) {
+  const el = document.getElementById('statsCards');
+  const cards = [
+    { label: 'Active Warrants', value: data.totalWarrants, cls: 'blue' },
+    { label: 'Call Warrants', value: stats.callWarrants, cls: 'green' },
+    { label: 'Put Warrants', value: stats.putWarrants, cls: 'red' },
+    { label: 'In the Money', value: stats.inTheMoney, cls: 'green' },
+    { label: 'Out of the Money', value: stats.outOfTheMoney, cls: 'red' },
+    { label: 'With Volume', value: stats.withVolume, cls: 'yellow' },
+    { label: 'OHLC Date', value: data.ohlcFetchedAt ? data.ohlcFetchedAt.split(' ')[0] : '-', cls: 'purple' },
+  ];
+  el.innerHTML = cards.map(c => `
+    <div class="stat-card">
+      <div class="label">${c.label}</div>
+      <div class="value ${c.cls}">${c.value}</div>
+    </div>
+  `).join('');
+}
+
+function renderHead() {
+  const tr = document.getElementById('tableHead');
+  tr.innerHTML = COLUMNS.map(col => {
+    const arrow = col.key === sortCol
+      ? (sortDir === 1 ? ' ▲' : ' ▼')
+      : '';
+    return `<th data-key="${col.key}" ${col.sortable ? '' : 'style="cursor:default"'}>${col.label}<span class="sort-arrow">${arrow}</span></th>`;
+  }).join('');
+
+  tr.querySelectorAll('th').forEach(th => {
+    const col = COLUMNS.find(c => c.key === th.dataset.key);
+    if (col && col.sortable) {
+      th.addEventListener('click', () => {
+        if (sortCol === col.key) { sortDir *= -1; }
+        else { sortCol = col.key; sortDir = col.type === 'number' ? -1 : 1; }
+        renderHead();
+        renderTable();
+      });
+    }
+  });
+}
+
+function renderCell(row, col) {
+  const v = getValue(row, col.key);
+  switch(col.key) {
+    case 'SWType':
+      return `<span class="badge badge-${v}">${v}</span>`;
+    case 'isInTheMoney':
+      if (v === true) return '<span class="badge badge-itm">ITM</span>';
+      if (v === false) return '<span class="badge badge-otm">OTM</span>';
+      return '-';
+    case 'ExercisePrice':
+    case 'underlyingClose':
+    case 'warrantLast':
+      return `<span class="price right">${v != null ? fmt(v) : '-'}</span>`;
+    case 'warrantChange':
+      if (v == null) return '-';
+      const chCls = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
+      const pct = row.warrantPercentChange != null ? ` (${row.warrantPercentChange.toFixed(2)}%)` : '';
+      return `<span class="moneyness ${chCls}" style="font-size:0.8rem">${v > 0 ? '+' : ''}${v}${pct}</span>`;
+    case 'warrantVolume':
+      return `<span class="vol right">${fmtVol(v)}</span>`;
+    case 'underlyingVolume':
+      return `<span class="vol right">${fmtVol(v)}</span>`;
+    case 'intrinsicValue':
+      if (v == null) return '-';
+      const cls = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
+      return `<span class="moneyness ${cls}">${fmt(v)}</span>`;
+    case 'moneynessPercent':
+      if (v == null) return '-';
+      const mc = v > 0 ? 'positive' : v < 0 ? 'negative' : '';
+      return `<span class="moneyness ${mc}">${v > 0 ? '+' : ''}${v.toFixed(2)}%</span>`;
+    case 'FirstTradingDate':
+    case 'LastTradingDate':
+      return fmtDate(v);
+    case 'TimetoLastTradingDate':
+      if (v == null) return '-';
+      const dCls = v <= 30 ? 'color:var(--red)' : v <= 90 ? 'color:var(--yellow)' : '';
+      return `<span style="${dCls};font-weight:600">${v}</span>`;
+    case 'Issuer':
+      // shorten
+      return v ? v.replace('PT ', '').replace('SEKURITAS INDONESIA', 'SI') : '-';
+    default:
+      return v != null ? v : '-';
+  }
+}
+
+function getFilteredRows() {
+  const search = document.getElementById('search').value.toLowerCase();
+  const typeF = document.getElementById('typeFilter').value;
+  const statusF = document.getElementById('statusFilter').value;
+  const issuerF = document.getElementById('issuerFilter').value;
+  const expiringOnly = document.getElementById('hideExpiring').checked;
+
+  return allData.filter(row => {
+    if (search) {
+      const hay = `${row.KodeSW} ${row.Underlying} ${row.Issuer}`.toLowerCase();
+      if (!hay.includes(search)) return false;
+    }
+    if (typeF && row.SWType !== typeF) return false;
+    if (statusF === 'itm' && row.isInTheMoney !== true) return false;
+    if (statusF === 'otm' && row.isInTheMoney !== false) return false;
+    if (issuerF && row.Issuer !== issuerF) return false;
+    if (expiringOnly && (row.TimetoLastTradingDate == null || row.TimetoLastTradingDate > 30)) return false;
+    return true;
+  });
+}
+
+function renderTable() {
+  let rows = getFilteredRows();
+
+  // Sort
+  const col = COLUMNS.find(c => c.key === sortCol);
+  if (col) {
+    rows.sort((a, b) => {
+      let va = getValue(a, sortCol);
+      let vb = getValue(b, sortCol);
+      if (va == null) return 1;
+      if (vb == null) return -1;
+      if (col.type === 'number') return (va - vb) * sortDir;
+      return String(va).localeCompare(String(vb)) * sortDir;
+    });
+  }
+
+  document.getElementById('resultCount').textContent = `Showing ${rows.length} of ${allData.length} warrants`;
+
+  const tbody = document.getElementById('tableBody');
+  tbody.innerHTML = rows.map(row => {
+    return `<tr>${COLUMNS.map(col => `<td>${renderCell(row, col)}</td>`).join('')}</tr>`;
+  }).join('');
+}
+
+function populateIssuers(data) {
+  const issuers = [...new Set(data.map(r => r.Issuer))].sort();
+  const sel = document.getElementById('issuerFilter');
+  issuers.forEach(i => {
+    const opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = i.replace('PT ', '').replace('SEKURITAS INDONESIA', 'SI');
+    sel.appendChild(opt);
+  });
+}
+
+async function init() {
+  try {
+    const resp = await fetch(DATA_FILE);
+    const json = await resp.json();
+
+    document.getElementById('metaInfo').textContent =
+      `Data as of ${json.generatedAt} · Filtered: ${json.warrantFilteredDate} · OHLC: ${json.ohlcFetchedAt} · Prices: ${json.pricesFetchedAt || 'N/A'}`;
+
+    renderStats(json, json.statistics);
+
+    allData = json.data.map(flattenRow);
+    populateIssuers(allData);
+    renderHead();
+    renderTable();
+
+    // Filter event listeners
+    document.getElementById('search').addEventListener('input', renderTable);
+    document.getElementById('typeFilter').addEventListener('change', renderTable);
+    document.getElementById('statusFilter').addEventListener('change', renderTable);
+    document.getElementById('issuerFilter').addEventListener('change', renderTable);
+    document.getElementById('hideExpiring').addEventListener('change', renderTable);
+
+    document.getElementById('footer').textContent =
+      `IDX Structured Warrants Dashboard · Generated ${json.generatedAt}`;
+  } catch (e) {
+    document.getElementById('tableBody').innerHTML =
+      `<tr><td colspan="${COLUMNS.length}" style="text-align:center;padding:40px;color:var(--red)">
+        Failed to load data. Make sure structured_warrants_combined.json is in the same directory.<br>
+        <small>${e.message}</small>
+      </td></tr>`;
+  }
+}
+
+init();
+</script>
+</body>
+</html>
