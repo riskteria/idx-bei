@@ -224,6 +224,7 @@ const COLUMNS = [
   { key: 'ExercisePrice',      label: 'Strike',            sortable: true,  type: 'number' },
   { key: 'ExerciseRatio',      label: 'Ratio',             sortable: false, type: 'string' },
   { key: 'warrantLast',        label: 'Warrant Price',     sortable: true,  type: 'number' },
+  { key: 'conversionPrice',    label: 'Conversion Price',  sortable: true,  type: 'number' },
   { key: 'warrantChange',      label: 'W.Change',          sortable: true,  type: 'number' },
   { key: 'intrinsicValue',     label: 'Intrinsic',         sortable: true,  type: 'number' },
   { key: 'potentialGainLoss',  label: 'P/L Potential %',   sortable: true,  type: 'number' },
@@ -267,10 +268,19 @@ function flattenRow(r) {
     potentialGainLoss = ((m.intrinsicValue - w.last) / w.last) * 100;
   }
   
+  // Calculate conversion price
+  // Conversion Price = Warrant Price × Exercise Ratio + Strike Price
+  // This is the effective price per share if you buy warrant and exercise it
+  let conversionPrice = null;
+  if (w.last != null && m.exerciseRatioNumeric != null && r.ExercisePrice != null) {
+    conversionPrice = (w.last * m.exerciseRatioNumeric) + r.ExercisePrice;
+  }
+  
   return {
     ...r,
     underlyingClose: o.close ?? null,
     warrantLast: w.last ?? null,
+    conversionPrice: conversionPrice,
     warrantChange: w.change ?? null,
     warrantPercentChange: w.percentChange ?? null,
     intrinsicValue: m.intrinsicValue ?? null,
@@ -338,6 +348,7 @@ function renderCell(row, col) {
     case 'ExercisePrice':
     case 'underlyingClose':
     case 'warrantLast':
+    case 'conversionPrice':
       return `<span class="price right">${v != null ? fmt(v) : '-'}</span>`;
     case 'warrantChange':
       if (v == null) return '-';
