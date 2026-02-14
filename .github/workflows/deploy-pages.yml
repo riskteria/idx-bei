@@ -6,6 +6,7 @@ on:
     paths:
       - 'data/structured_warrants*.json'
       - 'data/structured_warrants.html'
+      - 'data/index.html'
       - 'data/underlying_ohlc.json'
       - 'data/warrant_prices.json'
   workflow_dispatch:  # Allow manual trigger
