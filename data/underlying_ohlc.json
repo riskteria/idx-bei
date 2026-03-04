@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-04 05:46:39",
+  "fetchedAt": "2026-03-04 12:19:17",
   "totalTickers": 88,
   "successCount": 88,
   "failCount": 0,
@@ -11,8 +11,8 @@
       "open": 10800.0,
       "high": 10900.0,
       "low": 9975.0,
-      "close": 10075.0,
-      "volume": 31506000
+      "close": 10300.0,
+      "volume": 45835200
     },
     "ACES": {
       "ticker": "ACES",
@@ -21,8 +21,8 @@
       "open": 398.0,
       "high": 398.0,
       "low": 388.0,
-      "close": 390.0,
-      "volume": 52293300
+      "close": 392.0,
+      "volume": 80847100
     },
     "ADMR": {
       "ticker": "ADMR",
@@ -31,8 +31,8 @@
       "open": 2110.0,
       "high": 2120.0,
       "low": 1925.0,
-      "close": 1960.0,
-      "volume": 81646800
+      "close": 2010.0,
+      "volume": 125243700
     },
     "ADRO": {
       "ticker": "ADRO",
@@ -40,9 +40,9 @@
       "date": "2026-03-04",
       "open": 2490.0,
       "high": 2490.0,
-      "low": 2330.0,
-      "close": 2350.0,
-      "volume": 123128100
+      "low": 2320.0,
+      "close": 2400.0,
+      "volume": 180613400
     },
     "AKRA": {
       "ticker": "AKRA",
@@ -50,9 +50,9 @@
       "date": "2026-03-04",
       "open": 1330.0,
       "high": 1340.0,
-      "low": 1250.0,
-      "close": 1255.0,
-      "volume": 30271200
+      "low": 1215.0,
+      "close": 1220.0,
+      "volume": 50510000
     },
     "AMMN": {
       "ticker": "AMMN",
@@ -60,9 +60,9 @@
       "date": "2026-03-04",
       "open": 6700.0,
       "high": 6700.0,
-      "low": 6125.0,
-      "close": 6125.0,
-      "volume": 34599200
+      "low": 6025.0,
+      "close": 6100.0,
+      "volume": 58604600
     },
     "AMRT": {
       "ticker": "AMRT",
@@ -71,8 +71,8 @@
       "open": 1605.0,
       "high": 1615.0,
       "low": 1515.0,
-      "close": 1515.0,
-      "volume": 24669300
+      "close": 1550.0,
+      "volume": 71613700
     },
     "ANTM": {
       "ticker": "ANTM",
@@ -80,9 +80,9 @@
       "date": "2026-03-04",
       "open": 4340.0,
       "high": 4340.0,
-      "low": 4000.0,
-      "close": 4020.0,
-      "volume": 138850700
+      "low": 3970.0,
+      "close": 4050.0,
+      "volume": 227575600
     },
     "ARTO": {
       "ticker": "ARTO",
@@ -90,9 +90,9 @@
       "date": "2026-03-04",
       "open": 1445.0,
       "high": 1445.0,
-      "low": 1345.0,
-      "close": 1365.0,
-      "volume": 5255000
+      "low": 1340.0,
+      "close": 1360.0,
+      "volume": 7294700
     },
     "ASII": {
       "ticker": "ASII",
@@ -100,9 +100,9 @@
       "date": "2026-03-04",
       "open": 6275.0,
       "high": 6325.0,
-      "low": 6100.0,
-      "close": 6100.0,
-      "volume": 19196500
+      "low": 6000.0,
+      "close": 6150.0,
+      "volume": 49747800
     },
     "AUTO": {
       "ticker": "AUTO",
@@ -110,9 +110,9 @@
       "date": "2026-03-04",
       "open": 2790.0,
       "high": 2790.0,
-      "low": 2730.0,
-      "close": 2780.0,
-      "volume": 3526900
+      "low": 2690.0,
+      "close": 2750.0,
+      "volume": 8274900
     },
     "AVIA": {
       "ticker": "AVIA",
@@ -120,9 +120,9 @@
       "date": "2026-03-04",
       "open": 422.0,
       "high": 430.0,
-      "low": 418.0,
-      "close": 420.0,
-      "volume": 5629800
+      "low": 400.0,
+      "close": 412.0,
+      "volume": 16774500
     },
     "BBCA": {
       "ticker": "BBCA",
@@ -130,9 +130,9 @@
       "date": "2026-03-04",
       "open": 7075.0,
       "high": 7075.0,
-      "low": 6900.0,
-      "close": 6950.0,
-      "volume": 92632000
+      "low": 6825.0,
+      "close": 6875.0,
+      "volume": 216519800
     },
     "BBNI": {
       "ticker": "BBNI",
@@ -140,9 +140,9 @@
       "date": "2026-03-04",
       "open": 4280.0,
       "high": 4290.0,
-      "low": 4150.0,
-      "close": 4180.0,
-      "volume": 51764900
+      "low": 4120.0,
+      "close": 4150.0,
+      "volume": 101732100
     },
     "BBRI": {
       "ticker": "BBRI",
@@ -150,9 +150,9 @@
       "date": "2026-03-04",
       "open": 3770.0,
       "high": 3770.0,
-      "low": 3690.0,
-      "close": 3710.0,
-      "volume": 96265300
+      "low": 3660.0,
+      "close": 3690.0,
+      "volume": 215661500
     },
     "BBTN": {
       "ticker": "BBTN",
@@ -160,9 +160,9 @@
       "date": "2026-03-04",
       "open": 1330.0,
       "high": 1330.0,
-      "low": 1255.0,
-      "close": 1265.0,
-      "volume": 31048000
+      "low": 1235.0,
+      "close": 1255.0,
+      "volume": 57210400
     },
     "BFIN": {
       "ticker": "BFIN",
@@ -172,7 +172,7 @@
       "high": 770.0,
       "low": 740.0,
       "close": 745.0,
-      "volume": 26487500
+      "volume": 39635000
     },
     "BMRI": {
       "ticker": "BMRI",
@@ -180,9 +180,9 @@
       "date": "2026-03-04",
       "open": 5050.0,
       "high": 5075.0,
-      "low": 4950.0,
-      "close": 4960.0,
-      "volume": 146754200
+      "low": 4870.0,
+      "close": 4980.0,
+      "volume": 294487200
     },
     "BNGA": {
       "ticker": "BNGA",
@@ -190,9 +190,9 @@
       "date": "2026-03-04",
       "open": 1815.0,
       "high": 1820.0,
-      "low": 1770.0,
-      "close": 1775.0,
-      "volume": 11076600
+      "low": 1760.0,
+      "close": 1765.0,
+      "volume": 20887600
     },
     "BRIS": {
       "ticker": "BRIS",
@@ -201,8 +201,8 @@
       "open": 2150.0,
       "high": 2190.0,
       "low": 2080.0,
-      "close": 2110.0,
-      "volume": 13174100
+      "close": 2130.0,
+      "volume": 18048900
     },
     "BRMS": {
       "ticker": "BRMS",
@@ -212,7 +212,7 @@
       "high": 965.0,
       "low": 840.0,
       "close": 850.0,
-      "volume": 316744100
+      "volume": 528518500
     },
     "BRPT": {
       "ticker": "BRPT",
@@ -220,9 +220,9 @@
       "date": "2026-03-04",
       "open": 1780.0,
       "high": 1785.0,
-      "low": 1620.0,
-      "close": 1625.0,
-      "volume": 68453100
+      "low": 1540.0,
+      "close": 1640.0,
+      "volume": 140229200
     },
     "BSDE": {
       "ticker": "BSDE",
@@ -230,9 +230,9 @@
       "date": "2026-03-04",
       "open": 780.0,
       "high": 785.0,
-      "low": 750.0,
-      "close": 755.0,
-      "volume": 14452500
+      "low": 745.0,
+      "close": 750.0,
+      "volume": 33932200
     },
     "BTPS": {
       "ticker": "BTPS",
@@ -240,9 +240,9 @@
       "date": "2026-03-04",
       "open": 1100.0,
       "high": 1105.0,
-      "low": 1065.0,
-      "close": 1070.0,
-      "volume": 4136300
+      "low": 1050.0,
+      "close": 1055.0,
+      "volume": 8979100
     },
     "BUKA": {
       "ticker": "BUKA",
@@ -250,9 +250,9 @@
       "date": "2026-03-04",
       "open": 138.0,
       "high": 138.0,
-      "low": 134.0,
-      "close": 136.0,
-      "volume": 70577400
+      "low": 132.0,
+      "close": 133.0,
+      "volume": 159895900
     },
     "BUMI": {
       "ticker": "BUMI",
@@ -261,18 +261,18 @@
       "open": 256.0,
       "high": 256.0,
       "low": 226.0,
-      "close": 232.0,
-      "volume": 1151251104
+      "close": 234.0,
+      "volume": 3576112904
     },
     "CMRY": {
       "ticker": "CMRY",
       "yahooTicker": "CMRY.JK",
       "date": "2026-03-04",
       "open": 4830.0,
-      "high": 4910.0,
-      "low": 4710.0,
-      "close": 4840.0,
-      "volume": 1801500
+      "high": 4930.0,
+      "low": 4500.0,
+      "close": 4690.0,
+      "volume": 10061200
     },
     "CPIN": {
       "ticker": "CPIN",
@@ -280,9 +280,9 @@
       "date": "2026-03-04",
       "open": 4000.0,
       "high": 4000.0,
-      "low": 3810.0,
-      "close": 3830.0,
-      "volume": 8860300
+      "low": 3610.0,
+      "close": 3670.0,
+      "volume": 25048900
     },
     "CTRA": {
       "ticker": "CTRA",
@@ -292,7 +292,7 @@
       "high": 745.0,
       "low": 715.0,
       "close": 720.0,
-      "volume": 19912600
+      "volume": 29685400
     },
     "DSNG": {
       "ticker": "DSNG",
@@ -300,9 +300,9 @@
       "date": "2026-03-04",
       "open": 1375.0,
       "high": 1375.0,
-      "low": 1300.0,
-      "close": 1300.0,
-      "volume": 4678000
+      "low": 1290.0,
+      "close": 1335.0,
+      "volume": 8075400
     },
     "DSSA": {
       "ticker": "DSSA",
@@ -310,9 +310,9 @@
       "date": "2026-03-04",
       "open": 78500.0,
       "high": 78500.0,
-      "low": 74700.0,
-      "close": 76200.0,
-      "volume": 660800
+      "low": 73250.0,
+      "close": 74850.0,
+      "volume": 2259700
     },
     "ELSA": {
       "ticker": "ELSA",
@@ -320,9 +320,9 @@
       "date": "2026-03-04",
       "open": 940.0,
       "high": 980.0,
-      "low": 880.0,
-      "close": 895.0,
-      "volume": 269226900
+      "low": 865.0,
+      "close": 875.0,
+      "volume": 390953300
     },
     "EMTK": {
       "ticker": "EMTK",
@@ -330,9 +330,9 @@
       "date": "2026-03-04",
       "open": 805.0,
       "high": 810.0,
-      "low": 765.0,
-      "close": 770.0,
-      "volume": 31699200
+      "low": 760.0,
+      "close": 780.0,
+      "volume": 52355100
     },
     "ENRG": {
       "ticker": "ENRG",
@@ -340,9 +340,9 @@
       "date": "2026-03-04",
       "open": 2220.0,
       "high": 2420.0,
-      "low": 2140.0,
-      "close": 2170.0,
-      "volume": 563739600
+      "low": 2070.0,
+      "close": 2140.0,
+      "volume": 821190800
     },
     "ERAA": {
       "ticker": "ERAA",
@@ -351,8 +351,8 @@
       "open": 430.0,
       "high": 430.0,
       "low": 404.0,
-      "close": 408.0,
-      "volume": 67000900
+      "close": 412.0,
+      "volume": 108228200
     },
     "ESSA": {
       "ticker": "ESSA",
@@ -361,8 +361,8 @@
       "open": 760.0,
       "high": 770.0,
       "low": 700.0,
-      "close": 715.0,
-      "volume": 216005900
+      "close": 740.0,
+      "volume": 287259500
     },
     "EXCL": {
       "ticker": "EXCL",
@@ -370,9 +370,9 @@
       "date": "2026-03-04",
       "open": 2890.0,
       "high": 2930.0,
-      "low": 2790.0,
-      "close": 2800.0,
-      "volume": 26483500
+      "low": 2710.0,
+      "close": 2820.0,
+      "volume": 37465900
     },
     "GGRM": {
       "ticker": "GGRM",
@@ -380,9 +380,9 @@
       "date": "2026-03-04",
       "open": 15975.0,
       "high": 16000.0,
-      "low": 15200.0,
-      "close": 15300.0,
-      "volume": 633300
+      "low": 15150.0,
+      "close": 15200.0,
+      "volume": 1089600
     },
     "GJTL": {
       "ticker": "GJTL",
@@ -390,9 +390,9 @@
       "date": "2026-03-04",
       "open": 1090.0,
       "high": 1090.0,
-      "low": 1050.0,
+      "low": 1040.0,
       "close": 1055.0,
-      "volume": 6858700
+      "volume": 10956200
     },
     "GOTO": {
       "ticker": "GOTO",
@@ -402,7 +402,7 @@
       "high": 58.0,
       "low": 56.0,
       "close": 57.0,
-      "volume": 4151158100
+      "volume": 1622822904
     },
     "HEAL": {
       "ticker": "HEAL",
@@ -410,9 +410,9 @@
       "date": "2026-03-04",
       "open": 1285.0,
       "high": 1290.0,
-      "low": 1260.0,
-      "close": 1260.0,
-      "volume": 2771300
+      "low": 1255.0,
+      "close": 1270.0,
+      "volume": 10531600
     },
     "HRUM": {
       "ticker": "HRUM",
@@ -420,9 +420,9 @@
       "date": "2026-03-04",
       "open": 1195.0,
       "high": 1200.0,
-      "low": 1105.0,
-      "close": 1115.0,
-      "volume": 43088900
+      "low": 1090.0,
+      "close": 1105.0,
+      "volume": 62209200
     },
     "ICBP": {
       "ticker": "ICBP",
@@ -430,9 +430,9 @@
       "date": "2026-03-04",
       "open": 7700.0,
       "high": 7800.0,
-      "low": 7500.0,
-      "close": 7525.0,
-      "volume": 4667100
+      "low": 7200.0,
+      "close": 7475.0,
+      "volume": 14354800
     },
     "INCO": {
       "ticker": "INCO",
@@ -440,9 +440,9 @@
       "date": "2026-03-04",
       "open": 7000.0,
       "high": 7000.0,
-      "low": 6500.0,
-      "close": 6525.0,
-      "volume": 22931500
+      "low": 6475.0,
+      "close": 6475.0,
+      "volume": 39300600
     },
     "INDF": {
       "ticker": "INDF",
@@ -450,19 +450,19 @@
       "date": "2026-03-04",
       "open": 6400.0,
       "high": 6425.0,
-      "low": 6175.0,
-      "close": 6200.0,
-      "volume": 21502500
+      "low": 6125.0,
+      "close": 6125.0,
+      "volume": 43488500
     },
     "INDY": {
       "ticker": "INDY",
       "yahooTicker": "INDY.JK",
       "date": "2026-03-04",
       "open": 3940.0,
-      "high": 3950.0,
+      "high": 3970.0,
       "low": 3600.0,
-      "close": 3670.0,
-      "volume": 41145700
+      "close": 3900.0,
+      "volume": 60209600
     },
     "INKP": {
       "ticker": "INKP",
@@ -470,9 +470,9 @@
       "date": "2026-03-04",
       "open": 10525.0,
       "high": 10525.0,
-      "low": 9625.0,
+      "low": 9500.0,
       "close": 9725.0,
-      "volume": 13543100
+      "volume": 21836800
     },
     "INTP": {
       "ticker": "INTP",
@@ -481,8 +481,8 @@
       "open": 5875.0,
       "high": 5875.0,
       "low": 5650.0,
-      "close": 5675.0,
-      "volume": 876700
+      "close": 5825.0,
+      "volume": 1357600
     },
     "ISAT": {
       "ticker": "ISAT",
@@ -490,9 +490,9 @@
       "date": "2026-03-04",
       "open": 2270.0,
       "high": 2300.0,
-      "low": 2160.0,
-      "close": 2190.0,
-      "volume": 12039400
+      "low": 2110.0,
+      "close": 2180.0,
+      "volume": 23421200
     },
     "ITMG": {
       "ticker": "ITMG",
@@ -501,8 +501,8 @@
       "open": 25100.0,
       "high": 25875.0,
       "low": 24450.0,
-      "close": 24675.0,
-      "volume": 8995700
+      "close": 25000.0,
+      "volume": 11958000
     },
     "JPFA": {
       "ticker": "JPFA",
@@ -510,9 +510,9 @@
       "date": "2026-03-04",
       "open": 2430.0,
       "high": 2450.0,
-      "low": 2320.0,
-      "close": 2340.0,
-      "volume": 10931000
+      "low": 2240.0,
+      "close": 2280.0,
+      "volume": 25085300
     },
     "JSMR": {
       "ticker": "JSMR",
@@ -520,9 +520,9 @@
       "date": "2026-03-04",
       "open": 3440.0,
       "high": 3440.0,
-      "low": 3380.0,
-      "close": 3400.0,
-      "volume": 4081400
+      "low": 3180.0,
+      "close": 3300.0,
+      "volume": 12109100
     },
     "KIJA": {
       "ticker": "KIJA",
@@ -530,9 +530,9 @@
       "date": "2026-03-04",
       "open": 199.0,
       "high": 199.0,
-      "low": 183.0,
-      "close": 187.0,
-      "volume": 72884300
+      "low": 181.0,
+      "close": 185.0,
+      "volume": 104688800
     },
     "KLBF": {
       "ticker": "KLBF",
@@ -540,9 +540,9 @@
       "date": "2026-03-04",
       "open": 1040.0,
       "high": 1040.0,
-      "low": 1010.0,
-      "close": 1010.0,
-      "volume": 28908600
+      "low": 1005.0,
+      "close": 1015.0,
+      "volume": 71679900
     },
     "KPIG": {
       "ticker": "KPIG",
@@ -550,9 +550,9 @@
       "date": "2026-03-04",
       "open": 115.0,
       "high": 115.0,
-      "low": 106.0,
+      "low": 105.0,
       "close": 109.0,
-      "volume": 93995700
+      "volume": 159787900
     },
     "LSIP": {
       "ticker": "LSIP",
@@ -560,9 +560,9 @@
       "date": "2026-03-04",
       "open": 1280.0,
       "high": 1285.0,
-      "low": 1235.0,
-      "close": 1240.0,
-      "volume": 21942000
+      "low": 1215.0,
+      "close": 1220.0,
+      "volume": 38828800
     },
     "MAPA": {
       "ticker": "MAPA",
@@ -570,9 +570,9 @@
       "date": "2026-03-04",
       "open": 685.0,
       "high": 685.0,
-      "low": 620.0,
-      "close": 625.0,
-      "volume": 10474600
+      "low": 615.0,
+      "close": 635.0,
+      "volume": 18146000
     },
     "MAPI": {
       "ticker": "MAPI",
@@ -580,9 +580,9 @@
       "date": "2026-03-04",
       "open": 1215.0,
       "high": 1215.0,
-      "low": 1140.0,
-      "close": 1140.0,
-      "volume": 15186600
+      "low": 1135.0,
+      "close": 1155.0,
+      "volume": 24520800
     },
     "MBMA": {
       "ticker": "MBMA",
@@ -591,8 +591,8 @@
       "open": 755.0,
       "high": 760.0,
       "low": 690.0,
-      "close": 695.0,
-      "volume": 236577800
+      "close": 710.0,
+      "volume": 359323400
     },
     "MDKA": {
       "ticker": "MDKA",
@@ -601,8 +601,8 @@
       "open": 3530.0,
       "high": 3590.0,
       "low": 3400.0,
-      "close": 3410.0,
-      "volume": 82595800
+      "close": 3430.0,
+      "volume": 114676300
     },
     "MEDC": {
       "ticker": "MEDC",
@@ -610,9 +610,9 @@
       "date": "2026-03-04",
       "open": 1880.0,
       "high": 1985.0,
-      "low": 1815.0,
-      "close": 1830.0,
-      "volume": 476821100
+      "low": 1770.0,
+      "close": 1820.0,
+      "volume": 723313800
     },
     "MIKA": {
       "ticker": "MIKA",
@@ -620,9 +620,9 @@
       "date": "2026-03-04",
       "open": 2160.0,
       "high": 2160.0,
-      "low": 2120.0,
-      "close": 2130.0,
-      "volume": 993600
+      "low": 2110.0,
+      "close": 2140.0,
+      "volume": 2726500
     },
     "MNCN": {
       "ticker": "MNCN",
@@ -630,9 +630,9 @@
       "date": "2026-03-04",
       "open": 226.0,
       "high": 226.0,
-      "low": 216.0,
-      "close": 220.0,
-      "volume": 18708800
+      "low": 212.0,
+      "close": 212.0,
+      "volume": 34906000
     },
     "MTEL": {
       "ticker": "MTEL",
@@ -641,8 +641,8 @@
       "open": 510.0,
       "high": 515.0,
       "low": 500.0,
-      "close": 500.0,
-      "volume": 11610200
+      "close": 510.0,
+      "volume": 21728400
     },
     "MYOR": {
       "ticker": "MYOR",
@@ -651,8 +651,8 @@
       "open": 2040.0,
       "high": 2040.0,
       "low": 1965.0,
-      "close": 1965.0,
-      "volume": 8003300
+      "close": 1990.0,
+      "volume": 15845800
     },
     "NCKL": {
       "ticker": "NCKL",
@@ -660,9 +660,9 @@
       "date": "2026-03-04",
       "open": 1360.0,
       "high": 1360.0,
-      "low": 1275.0,
-      "close": 1285.0,
-      "volume": 82760900
+      "low": 1270.0,
+      "close": 1325.0,
+      "volume": 137093900
     },
     "PANI": {
       "ticker": "PANI",
@@ -671,8 +671,8 @@
       "open": 8400.0,
       "high": 8650.0,
       "low": 8175.0,
-      "close": 8275.0,
-      "volume": 6338400
+      "close": 8450.0,
+      "volume": 8682100
     },
     "PGAS": {
       "ticker": "PGAS",
@@ -681,8 +681,8 @@
       "open": 2400.0,
       "high": 2420.0,
       "low": 2280.0,
-      "close": 2330.0,
-      "volume": 37804900
+      "close": 2340.0,
+      "volume": 70505900
     },
     "PGEO": {
       "ticker": "PGEO",
@@ -690,9 +690,9 @@
       "date": "2026-03-04",
       "open": 1060.0,
       "high": 1080.0,
-      "low": 1030.0,
-      "close": 1030.0,
-      "volume": 20412000
+      "low": 1025.0,
+      "close": 1040.0,
+      "volume": 32274900
     },
     "PNBN": {
       "ticker": "PNBN",
@@ -700,9 +700,9 @@
       "date": "2026-03-04",
       "open": 1045.0,
       "high": 1045.0,
-      "low": 1025.0,
-      "close": 1025.0,
-      "volume": 5356400
+      "low": 1005.0,
+      "close": 1015.0,
+      "volume": 11677500
     },
     "PNLF": {
       "ticker": "PNLF",
@@ -711,8 +711,8 @@
       "open": 256.0,
       "high": 258.0,
       "low": 244.0,
-      "close": 246.0,
-      "volume": 52017200
+      "close": 250.0,
+      "volume": 70119200
     },
     "PTBA": {
       "ticker": "PTBA",
@@ -720,9 +720,9 @@
       "date": "2026-03-04",
       "open": 2930.0,
       "high": 2970.0,
-      "low": 2830.0,
-      "close": 2840.0,
-      "volume": 77916200
+      "low": 2790.0,
+      "close": 2860.0,
+      "volume": 121906900
     },
     "PTRO": {
       "ticker": "PTRO",
@@ -731,8 +731,8 @@
       "open": 5725.0,
       "high": 5850.0,
       "low": 5175.0,
-      "close": 5275.0,
-      "volume": 62954600
+      "close": 5300.0,
+      "volume": 91357400
     },
     "PWON": {
       "ticker": "PWON",
@@ -740,9 +740,9 @@
       "date": "2026-03-04",
       "open": 350.0,
       "high": 352.0,
-      "low": 346.0,
+      "low": 344.0,
       "close": 346.0,
-      "volume": 35243100
+      "volume": 56065500
     },
     "RAJA": {
       "ticker": "RAJA",
@@ -751,8 +751,8 @@
       "open": 4620.0,
       "high": 4650.0,
       "low": 3980.0,
-      "close": 4080.0,
-      "volume": 33534000
+      "close": 4060.0,
+      "volume": 50376200
     },
     "RATU": {
       "ticker": "RATU",
@@ -761,8 +761,8 @@
       "open": 6800.0,
       "high": 6800.0,
       "low": 5800.0,
-      "close": 6000.0,
-      "volume": 21626800
+      "close": 5925.0,
+      "volume": 29884100
     },
     "SCMA": {
       "ticker": "SCMA",
@@ -770,9 +770,9 @@
       "date": "2026-03-04",
       "open": 254.0,
       "high": 254.0,
-      "low": 236.0,
-      "close": 236.0,
-      "volume": 47897800
+      "low": 230.0,
+      "close": 234.0,
+      "volume": 98675200
     },
     "SIDO": {
       "ticker": "SIDO",
@@ -782,7 +782,7 @@
       "high": 540.0,
       "low": 515.0,
       "close": 520.0,
-      "volume": 16925300
+      "volume": 22579300
     },
     "SMGR": {
       "ticker": "SMGR",
@@ -790,9 +790,9 @@
       "date": "2026-03-04",
       "open": 2700.0,
       "high": 2700.0,
-      "low": 2480.0,
+      "low": 2470.0,
       "close": 2500.0,
-      "volume": 20914100
+      "volume": 29592900
     },
     "SMRA": {
       "ticker": "SMRA",
@@ -800,9 +800,9 @@
       "date": "2026-03-04",
       "open": 364.0,
       "high": 364.0,
-      "low": 356.0,
-      "close": 358.0,
-      "volume": 27992300
+      "low": 352.0,
+      "close": 352.0,
+      "volume": 51029000
     },
     "SRTG": {
       "ticker": "SRTG",
@@ -810,9 +810,9 @@
       "date": "2026-03-04",
       "open": 1815.0,
       "high": 1815.0,
-      "low": 1645.0,
-      "close": 1660.0,
-      "volume": 18959700
+      "low": 1600.0,
+      "close": 1645.0,
+      "volume": 32563600
     },
     "TAPG": {
       "ticker": "TAPG",
@@ -821,8 +821,8 @@
       "open": 1665.0,
       "high": 1690.0,
       "low": 1560.0,
-      "close": 1585.0,
-      "volume": 26445500
+      "close": 1570.0,
+      "volume": 42259700
     },
     "TKIM": {
       "ticker": "TKIM",
@@ -832,7 +832,7 @@
       "high": 10300.0,
       "low": 9200.0,
       "close": 9375.0,
-      "volume": 5937800
+      "volume": 8903000
     },
     "TLKM": {
       "ticker": "TLKM",
@@ -840,9 +840,9 @@
       "date": "2026-03-04",
       "open": 3430.0,
       "high": 3450.0,
-      "low": 3170.0,
-      "close": 3180.0,
-      "volume": 75054000
+      "low": 3110.0,
+      "close": 3200.0,
+      "volume": 206480000
     },
     "TOWR": {
       "ticker": "TOWR",
@@ -850,9 +850,9 @@
       "date": "2026-03-04",
       "open": 494.0,
       "high": 494.0,
-      "low": 482.0,
-      "close": 484.0,
-      "volume": 27300300
+      "low": 470.0,
+      "close": 474.0,
+      "volume": 64744000
     },
     "UNTR": {
       "ticker": "UNTR",
@@ -861,8 +861,8 @@
       "open": 30000.0,
       "high": 30000.0,
       "low": 28625.0,
-      "close": 28925.0,
-      "volume": 3481000
+      "close": 28900.0,
+      "volume": 6998000
     },
     "UNVR": {
       "ticker": "UNVR",
@@ -870,9 +870,9 @@
       "date": "2026-03-04",
       "open": 2090.0,
       "high": 2090.0,
-      "low": 1970.0,
-      "close": 1980.0,
-      "volume": 17694500
+      "low": 1920.0,
+      "close": 1935.0,
+      "volume": 31919800
     },
     "WIFI": {
       "ticker": "WIFI",
@@ -880,9 +880,9 @@
       "date": "2026-03-04",
       "open": 2270.0,
       "high": 2300.0,
-      "low": 2180.0,
-      "close": 2190.0,
-      "volume": 22669100
+      "low": 2150.0,
+      "close": 2160.0,
+      "volume": 40777300
     }
   }
 }
