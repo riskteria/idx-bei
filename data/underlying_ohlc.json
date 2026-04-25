@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-24 12:31:10",
+  "fetchedAt": "2026-04-25 06:04:00",
   "totalTickers": 88,
   "successCount": 88,
   "failCount": 0,
@@ -262,7 +262,7 @@
       "high": 236.0,
       "low": 216.0,
       "close": 216.0,
-      "volume": 147724704
+      "volume": 4442692000
     },
     "CMRY": {
       "ticker": "CMRY",
