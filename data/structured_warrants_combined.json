@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-12 13:19:42",
+  "generatedAt": "2026-06-13 06:47:51",
   "warrantFilteredDate": "2026-02-10",
-  "ohlcFetchedAt": "2026-06-12 13:19:42",
+  "ohlcFetchedAt": "2026-06-13 06:47:51",
   "pricesFetchedAt": "2026-02-10T21:36:33.535982",
   "totalWarrants": 493,
   "withOHLC": 493,
@@ -14823,7 +14823,7 @@
         "high": 162.0,
         "low": 143.0,
         "close": 157.0,
-        "volume": 2335692404
+        "volume": 6630659700
       },
       "WarrantMetrics": {
         "intrinsicValue": -143.0,
@@ -14905,7 +14905,7 @@
         "high": 162.0,
         "low": 143.0,
         "close": 157.0,
-        "volume": 2335692404
+        "volume": 6630659700
       },
       "WarrantMetrics": {
         "intrinsicValue": -203.0,
@@ -15643,7 +15643,7 @@
         "high": 162.0,
         "low": 143.0,
         "close": 157.0,
-        "volume": 2335692404
+        "volume": 6630659700
       },
       "WarrantMetrics": {
         "intrinsicValue": -130.83,
@@ -18800,7 +18800,7 @@
         "high": 162.0,
         "low": 143.0,
         "close": 157.0,
-        "volume": 2335692404
+        "volume": 6630659700
       },
       "WarrantMetrics": {
         "intrinsicValue": -118.0,
@@ -19948,7 +19948,7 @@
         "high": 162.0,
         "low": 143.0,
         "close": 157.0,
-        "volume": 2335692404
+        "volume": 6630659700
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.0,
