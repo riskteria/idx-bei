@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15 14:16:48",
+  "fetchedAt": "2026-06-16 07:17:42",
   "totalTickers": 88,
   "successCount": 88,
   "failCount": 0,
@@ -27,12 +27,12 @@
     "ADMR": {
       "ticker": "ADMR",
       "yahooTicker": "ADMR.JK",
-      "date": "2026-06-15",
-      "open": 1620.0,
-      "high": 1695.0,
-      "low": 1580.0,
-      "close": 1660.0,
-      "volume": 63998000
+      "date": "2026-06-12",
+      "open": 1495.0,
+      "high": 1640.0,
+      "low": 1485.0,
+      "close": 1575.0,
+      "volume": 43266800
     },
     "ADRO": {
       "ticker": "ADRO",
@@ -117,12 +117,12 @@
     "AVIA": {
       "ticker": "AVIA",
       "yahooTicker": "AVIA.JK",
-      "date": "2026-06-15",
-      "open": 316.0,
-      "high": 336.0,
-      "low": 316.0,
-      "close": 332.0,
-      "volume": 10315900
+      "date": "2026-06-12",
+      "open": 312.0,
+      "high": 316.0,
+      "low": 310.0,
+      "close": 310.0,
+      "volume": 6393600
     },
     "BBCA": {
       "ticker": "BBCA",
@@ -247,12 +247,12 @@
     "BUKA": {
       "ticker": "BUKA",
       "yahooTicker": "BUKA.JK",
-      "date": "2026-06-15",
-      "open": 115.0,
-      "high": 117.0,
-      "low": 107.0,
-      "close": 108.0,
-      "volume": 308953300
+      "date": "2026-06-12",
+      "open": 114.0,
+      "high": 116.0,
+      "low": 112.0,
+      "close": 113.0,
+      "volume": 50129300
     },
     "BUMI": {
       "ticker": "BUMI",
@@ -262,17 +262,17 @@
       "high": 191.0,
       "low": 163.0,
       "close": 173.0,
-      "volume": 450699812
+      "volume": 13335601700
     },
     "CMRY": {
       "ticker": "CMRY",
       "yahooTicker": "CMRY.JK",
-      "date": "2026-06-15",
-      "open": 4400.0,
-      "high": 4440.0,
-      "low": 4310.0,
-      "close": 4360.0,
-      "volume": 2993800
+      "date": "2026-06-12",
+      "open": 4180.0,
+      "high": 4400.0,
+      "low": 4160.0,
+      "close": 4400.0,
+      "volume": 3542800
     },
     "CPIN": {
       "ticker": "CPIN",
@@ -397,12 +397,12 @@
     "GOTO": {
       "ticker": "GOTO",
       "yahooTicker": "GOTO.JK",
-      "date": "2026-06-15",
+      "date": "2026-06-12",
       "open": 50.0,
       "high": 50.0,
       "low": 50.0,
       "close": 50.0,
-      "volume": 201214700
+      "volume": 67675000
     },
     "HEAL": {
       "ticker": "HEAL",
@@ -637,12 +637,12 @@
     "MTEL": {
       "ticker": "MTEL",
       "yahooTicker": "MTEL.JK",
-      "date": "2026-06-15",
-      "open": 496.0,
-      "high": 505.0,
-      "low": 496.0,
-      "close": 505.0,
-      "volume": 17266800
+      "date": "2026-06-12",
+      "open": 498.0,
+      "high": 500.0,
+      "low": 492.0,
+      "close": 498.0,
+      "volume": 32723600
     },
     "MYOR": {
       "ticker": "MYOR",
@@ -817,12 +817,12 @@
     "TAPG": {
       "ticker": "TAPG",
       "yahooTicker": "TAPG.JK",
-      "date": "2026-06-15",
-      "open": 1510.0,
-      "high": 1545.0,
-      "low": 1495.0,
-      "close": 1515.0,
-      "volume": 22207000
+      "date": "2026-06-12",
+      "open": 1380.0,
+      "high": 1550.0,
+      "low": 1380.0,
+      "close": 1490.0,
+      "volume": 23782600
     },
     "TKIM": {
       "ticker": "TKIM",
@@ -877,12 +877,12 @@
     "WIFI": {
       "ticker": "WIFI",
       "yahooTicker": "WIFI.JK",
-      "date": "2026-06-15",
-      "open": 1635.0,
-      "high": 1725.0,
-      "low": 1630.0,
-      "close": 1690.0,
-      "volume": 43161100
+      "date": "2026-06-12",
+      "open": 1570.0,
+      "high": 1625.0,
+      "low": 1570.0,
+      "close": 1595.0,
+      "volume": 29599000
     }
   }
 }
