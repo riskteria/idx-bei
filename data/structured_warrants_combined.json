@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-17 13:43:13",
+  "generatedAt": "2026-07-18 07:14:39",
   "warrantFilteredDate": "2026-02-10",
-  "ohlcFetchedAt": "2026-07-17 13:43:13",
+  "ohlcFetchedAt": "2026-07-18 07:14:39",
   "pricesFetchedAt": "2026-02-10T21:36:33.535982",
   "totalWarrants": 493,
   "withOHLC": 493,
@@ -75,7 +75,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": 475.0,
@@ -112,11 +112,11 @@
       "TimetoLastTradingDate": 286,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": 2150.0,
@@ -157,7 +157,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": 780.0,
@@ -194,11 +194,11 @@
       "TimetoLastTradingDate": 286,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": 730.0,
@@ -280,7 +280,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": 370.0,
@@ -358,11 +358,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 645.0,
+        "open": 650.0,
         "high": 650.0,
         "low": 635.0,
         "close": 640.0,
-        "volume": 12700100
+        "volume": 12606300
       },
       "WarrantMetrics": {
         "intrinsicValue": 50.0,
@@ -399,11 +399,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3910.0,
+        "open": 3900.0,
         "high": 3940.0,
         "low": 3830.0,
         "close": 3940.0,
-        "volume": 60732800
+        "volume": 59232800
       },
       "WarrantMetrics": {
         "intrinsicValue": -214.4,
@@ -440,11 +440,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1740.0,
+        "open": 1745.0,
         "high": 1910.0,
         "low": 1740.0,
         "close": 1910.0,
-        "volume": 64799300
+        "volume": 64705100
       },
       "WarrantMetrics": {
         "intrinsicValue": -84.0,
@@ -481,11 +481,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1230.0,
+        "open": 1235.0,
         "high": 1285.0,
         "low": 1230.0,
         "close": 1260.0,
-        "volume": 55021200
+        "volume": 54314800
       },
       "WarrantMetrics": {
         "intrinsicValue": 2.0,
@@ -522,11 +522,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": 670.0,
@@ -727,11 +727,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 575.0,
+        "open": 580.0,
         "high": 580.0,
         "low": 565.0,
         "close": 570.0,
-        "volume": 24986500
+        "volume": 24848300
       },
       "WarrantMetrics": {
         "intrinsicValue": -122.5,
@@ -1059,7 +1059,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": 57.5,
@@ -1100,7 +1100,7 @@
         "high": 1050.0,
         "low": 1025.0,
         "close": 1040.0,
-        "volume": 1907800
+        "volume": 1906600
       },
       "WarrantMetrics": {
         "intrinsicValue": -27.91,
@@ -1223,7 +1223,7 @@
         "high": 1625.0,
         "low": 1585.0,
         "close": 1620.0,
-        "volume": 3832800
+        "volume": 3818600
       },
       "WarrantMetrics": {
         "intrinsicValue": -5.0,
@@ -1301,11 +1301,11 @@
       "TimetoLastTradingDate": 44,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -47.0,
@@ -1428,7 +1428,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -151.67,
@@ -1469,7 +1469,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -147.5,
@@ -1592,7 +1592,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -24.67,
@@ -1633,7 +1633,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": 7.0,
@@ -1756,7 +1756,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": 86.0,
@@ -1797,7 +1797,7 @@
         "high": 585.0,
         "low": 560.0,
         "close": 575.0,
-        "volume": 18942900
+        "volume": 18669100
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.0,
@@ -2043,7 +2043,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -123.7,
@@ -2084,7 +2084,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -146.6,
@@ -2248,7 +2248,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -24.3,
@@ -2326,11 +2326,11 @@
       "TimetoLastTradingDate": 69,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1740.0,
+        "open": 1745.0,
         "high": 1910.0,
         "low": 1740.0,
         "close": 1910.0,
-        "volume": 64799300
+        "volume": 64705100
       },
       "WarrantMetrics": {
         "intrinsicValue": -82.5,
@@ -2371,7 +2371,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -122.14,
@@ -2449,11 +2449,11 @@
       "TimetoLastTradingDate": 69,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 575.0,
+        "open": 580.0,
         "high": 580.0,
         "low": 565.0,
         "close": 570.0,
-        "volume": 24986500
+        "volume": 24848300
       },
       "WarrantMetrics": {
         "intrinsicValue": -88.33,
@@ -2531,11 +2531,11 @@
       "TimetoLastTradingDate": 69,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": 291.67,
@@ -2617,7 +2617,7 @@
         "high": 352.0,
         "low": 344.0,
         "close": 352.0,
-        "volume": 11159400
+        "volume": 11084700
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.6,
@@ -2658,7 +2658,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 65.0,
@@ -2699,7 +2699,7 @@
         "high": 585.0,
         "low": 560.0,
         "close": 575.0,
-        "volume": 18942900
+        "volume": 18669100
       },
       "WarrantMetrics": {
         "intrinsicValue": -57.5,
@@ -2818,11 +2818,11 @@
       "TimetoLastTradingDate": 69,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 645.0,
+        "open": 650.0,
         "high": 650.0,
         "low": 635.0,
         "close": 640.0,
-        "volume": 12700100
+        "volume": 12606300
       },
       "WarrantMetrics": {
         "intrinsicValue": 43.33,
@@ -2863,7 +2863,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": 18.33,
@@ -2986,7 +2986,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": 71.67,
@@ -3023,11 +3023,11 @@
       "TimetoLastTradingDate": 69,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3910.0,
+        "open": 3900.0,
         "high": 3940.0,
         "low": 3830.0,
         "close": 3940.0,
-        "volume": 60732800
+        "volume": 59232800
       },
       "WarrantMetrics": {
         "intrinsicValue": -158.67,
@@ -3109,7 +3109,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -186.6,
@@ -3146,11 +3146,11 @@
       "TimetoLastTradingDate": 44,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1740.0,
+        "open": 1745.0,
         "high": 1910.0,
         "low": 1740.0,
         "close": 1910.0,
-        "volume": 64799300
+        "volume": 64705100
       },
       "WarrantMetrics": {
         "intrinsicValue": -98.3,
@@ -3191,7 +3191,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": 49.0,
@@ -3232,7 +3232,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": 29.0,
@@ -3310,11 +3310,11 @@
       "TimetoLastTradingDate": 44,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3910.0,
+        "open": 3900.0,
         "high": 3940.0,
         "low": 3830.0,
         "close": 3940.0,
-        "volume": 60732800
+        "volume": 59232800
       },
       "WarrantMetrics": {
         "intrinsicValue": -185.68,
@@ -3396,7 +3396,7 @@
         "high": 1375.0,
         "low": 1350.0,
         "close": 1355.0,
-        "volume": 8389300
+        "volume": 8279200
       },
       "WarrantMetrics": {
         "intrinsicValue": 9.0,
@@ -3478,7 +3478,7 @@
         "high": 1375.0,
         "low": 1350.0,
         "close": 1355.0,
-        "volume": 8389300
+        "volume": 8279200
       },
       "WarrantMetrics": {
         "intrinsicValue": -12.27,
@@ -3515,11 +3515,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": -131.25,
@@ -3679,11 +3679,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3110.0,
+        "open": 3120.0,
         "high": 3130.0,
         "low": 3090.0,
         "close": 3120.0,
-        "volume": 10392400
+        "volume": 10363200
       },
       "WarrantMetrics": {
         "intrinsicValue": -114.0,
@@ -3720,11 +3720,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 334.0,
+        "open": 336.0,
         "high": 340.0,
         "low": 330.0,
         "close": 330.0,
-        "volume": 31382900
+        "volume": 31290400
       },
       "WarrantMetrics": {
         "intrinsicValue": -47.46,
@@ -3806,7 +3806,7 @@
         "high": 2660.0,
         "low": 2610.0,
         "close": 2640.0,
-        "volume": 1138400
+        "volume": 1117500
       },
       "WarrantMetrics": {
         "intrinsicValue": 33.68,
@@ -3847,7 +3847,7 @@
         "high": 4620.0,
         "low": 4470.0,
         "close": 4490.0,
-        "volume": 2054700
+        "volume": 2051900
       },
       "WarrantMetrics": {
         "intrinsicValue": -28.73,
@@ -3888,7 +3888,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -8.89,
@@ -4093,7 +4093,7 @@
         "high": 352.0,
         "low": 344.0,
         "close": 352.0,
-        "volume": 11159400
+        "volume": 11084700
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.5,
@@ -4175,7 +4175,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -485.08,
@@ -4216,7 +4216,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -236.0,
@@ -4253,11 +4253,11 @@
       "TimetoLastTradingDate": 545,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -239.1,
@@ -4462,7 +4462,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -291.25,
@@ -4540,11 +4540,11 @@
       "TimetoLastTradingDate": 58,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1330.0,
+        "open": 1325.0,
         "high": 1360.0,
         "low": 1315.0,
         "close": 1335.0,
-        "volume": 46155200
+        "volume": 45667700
       },
       "WarrantMetrics": {
         "intrinsicValue": -248.17,
@@ -4626,7 +4626,7 @@
         "high": 1050.0,
         "low": 1025.0,
         "close": 1040.0,
-        "volume": 1907800
+        "volume": 1906600
       },
       "WarrantMetrics": {
         "intrinsicValue": -125.38,
@@ -4667,7 +4667,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": -489.5,
@@ -4708,7 +4708,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -275.0,
@@ -4749,7 +4749,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": 102.0,
@@ -5114,11 +5114,11 @@
       "TimetoLastTradingDate": 99,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -170.71,
@@ -5159,7 +5159,7 @@
         "high": 1625.0,
         "low": 1585.0,
         "close": 1620.0,
-        "volume": 3832800
+        "volume": 3818600
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.67,
@@ -5200,7 +5200,7 @@
         "high": 112.0,
         "low": 107.0,
         "close": 108.0,
-        "volume": 79127000
+        "volume": 78780700
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.0,
@@ -5241,7 +5241,7 @@
         "high": 1220.0,
         "low": 1195.0,
         "close": 1215.0,
-        "volume": 2701400
+        "volume": 2694600
       },
       "WarrantMetrics": {
         "intrinsicValue": -105.83,
@@ -5364,7 +5364,7 @@
         "high": 1050.0,
         "low": 1025.0,
         "close": 1040.0,
-        "volume": 1907800
+        "volume": 1906600
       },
       "WarrantMetrics": {
         "intrinsicValue": -104.87,
@@ -5442,11 +5442,11 @@
       "TimetoLastTradingDate": 99,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 770.0,
+        "open": 765.0,
         "high": 815.0,
         "low": 765.0,
         "close": 785.0,
-        "volume": 15105000
+        "volume": 14174400
       },
       "WarrantMetrics": {
         "intrinsicValue": -17.83,
@@ -5528,7 +5528,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -102.14,
@@ -5610,7 +5610,7 @@
         "high": 4620.0,
         "low": 4470.0,
         "close": 4490.0,
-        "volume": 2054700
+        "volume": 2051900
       },
       "WarrantMetrics": {
         "intrinsicValue": -75.83,
@@ -5811,11 +5811,11 @@
       "TimetoLastTradingDate": 85,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 8550.0,
+        "open": 8575.0,
         "high": 8800.0,
         "low": 8450.0,
         "close": 8750.0,
-        "volume": 7504100
+        "volume": 7489400
       },
       "WarrantMetrics": {
         "intrinsicValue": 70.36,
@@ -5893,11 +5893,11 @@
       "TimetoLastTradingDate": 85,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": 158.0,
@@ -6057,11 +6057,11 @@
       "TimetoLastTradingDate": 85,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 575.0,
+        "open": 580.0,
         "high": 580.0,
         "low": 565.0,
         "close": 570.0,
-        "volume": 24986500
+        "volume": 24848300
       },
       "WarrantMetrics": {
         "intrinsicValue": -174.67,
@@ -6143,7 +6143,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 86.25,
@@ -6266,7 +6266,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -48.82,
@@ -6307,7 +6307,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -37.75,
@@ -6344,11 +6344,11 @@
       "TimetoLastTradingDate": 99,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -99.5,
@@ -6631,11 +6631,11 @@
       "TimetoLastTradingDate": 99,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": 83.12,
@@ -6713,11 +6713,11 @@
       "TimetoLastTradingDate": 99,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1330.0,
+        "open": 1325.0,
         "high": 1360.0,
         "low": 1315.0,
         "close": 1335.0,
-        "volume": 46155200
+        "volume": 45667700
       },
       "WarrantMetrics": {
         "intrinsicValue": -78.08,
@@ -6758,7 +6758,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 98.0,
@@ -6799,7 +6799,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -66.25,
@@ -6836,11 +6836,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -205.62,
@@ -6963,7 +6963,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -184.0,
@@ -7045,7 +7045,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -200.0,
@@ -7127,7 +7127,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -144.36,
@@ -7168,7 +7168,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -42.95,
@@ -7410,11 +7410,11 @@
       "TimetoLastTradingDate": 104,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 8550.0,
+        "open": 8575.0,
         "high": 8800.0,
         "low": 8450.0,
         "close": 8750.0,
-        "volume": 7504100
+        "volume": 7489400
       },
       "WarrantMetrics": {
         "intrinsicValue": 202.09,
@@ -7615,11 +7615,11 @@
       "TimetoLastTradingDate": 99,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 645.0,
+        "open": 650.0,
         "high": 650.0,
         "low": 635.0,
         "close": 640.0,
-        "volume": 12700100
+        "volume": 12606300
       },
       "WarrantMetrics": {
         "intrinsicValue": 39.6,
@@ -7701,7 +7701,7 @@
         "high": 1220.0,
         "low": 1195.0,
         "close": 1215.0,
-        "volume": 2701400
+        "volume": 2694600
       },
       "WarrantMetrics": {
         "intrinsicValue": -129.25,
@@ -7865,7 +7865,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -205.0,
@@ -7902,11 +7902,11 @@
       "TimetoLastTradingDate": 139,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 8550.0,
+        "open": 8575.0,
         "high": 8800.0,
         "low": 8450.0,
         "close": 8750.0,
-        "volume": 7504100
+        "volume": 7489400
       },
       "WarrantMetrics": {
         "intrinsicValue": -16.84,
@@ -8070,7 +8070,7 @@
         "high": 2660.0,
         "low": 2610.0,
         "close": 2640.0,
-        "volume": 1138400
+        "volume": 1117500
       },
       "WarrantMetrics": {
         "intrinsicValue": -77.74,
@@ -8148,11 +8148,11 @@
       "TimetoLastTradingDate": 231,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1230.0,
+        "open": 1235.0,
         "high": 1285.0,
         "low": 1230.0,
         "close": 1260.0,
-        "volume": 55021200
+        "volume": 54314800
       },
       "WarrantMetrics": {
         "intrinsicValue": -153.33,
@@ -8234,7 +8234,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -244.0,
@@ -8476,11 +8476,11 @@
       "TimetoLastTradingDate": 231,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 334.0,
+        "open": 336.0,
         "high": 340.0,
         "low": 330.0,
         "close": 330.0,
-        "volume": 31382900
+        "volume": 31290400
       },
       "WarrantMetrics": {
         "intrinsicValue": -121.56,
@@ -8767,7 +8767,7 @@
         "high": 1375.0,
         "low": 1350.0,
         "close": 1355.0,
-        "volume": 8389300
+        "volume": 8279200
       },
       "WarrantMetrics": {
         "intrinsicValue": 0.71,
@@ -8808,7 +8808,7 @@
         "high": 112.0,
         "low": 107.0,
         "close": 108.0,
-        "volume": 79127000
+        "volume": 78780700
       },
       "WarrantMetrics": {
         "intrinsicValue": -82.0,
@@ -8931,7 +8931,7 @@
         "high": 1220.0,
         "low": 1195.0,
         "close": 1215.0,
-        "volume": 2701400
+        "volume": 2694600
       },
       "WarrantMetrics": {
         "intrinsicValue": -60.5,
@@ -9091,11 +9091,11 @@
       "TimetoLastTradingDate": 135,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 770.0,
+        "open": 765.0,
         "high": 815.0,
         "low": 765.0,
         "close": 785.0,
-        "volume": 15105000
+        "volume": 14174400
       },
       "WarrantMetrics": {
         "intrinsicValue": -4.59,
@@ -9173,11 +9173,11 @@
       "TimetoLastTradingDate": 135,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": -43.33,
@@ -9218,7 +9218,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -108.12,
@@ -9501,11 +9501,11 @@
       "TimetoLastTradingDate": 115,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 770.0,
+        "open": 765.0,
         "high": 815.0,
         "low": 765.0,
         "close": 785.0,
-        "volume": 15105000
+        "volume": 14174400
       },
       "WarrantMetrics": {
         "intrinsicValue": 2.1,
@@ -9587,7 +9587,7 @@
         "high": 585.0,
         "low": 560.0,
         "close": 575.0,
-        "volume": 18942900
+        "volume": 18669100
       },
       "WarrantMetrics": {
         "intrinsicValue": -142.5,
@@ -9669,7 +9669,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -237.0,
@@ -9788,11 +9788,11 @@
       "TimetoLastTradingDate": 44,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1330.0,
+        "open": 1325.0,
         "high": 1360.0,
         "low": 1315.0,
         "close": 1335.0,
-        "volume": 46155200
+        "volume": 45667700
       },
       "WarrantMetrics": {
         "intrinsicValue": -151.5,
@@ -9833,7 +9833,7 @@
         "high": 585.0,
         "low": 560.0,
         "close": 575.0,
-        "volume": 18942900
+        "volume": 18669100
       },
       "WarrantMetrics": {
         "intrinsicValue": -125.0,
@@ -10079,7 +10079,7 @@
         "high": 4620.0,
         "low": 4470.0,
         "close": 4490.0,
-        "volume": 2054700
+        "volume": 2051900
       },
       "WarrantMetrics": {
         "intrinsicValue": -101.2,
@@ -10161,7 +10161,7 @@
         "high": 2660.0,
         "low": 2610.0,
         "close": 2640.0,
-        "volume": 1138400
+        "volume": 1117500
       },
       "WarrantMetrics": {
         "intrinsicValue": -17.6,
@@ -10239,11 +10239,11 @@
       "TimetoLastTradingDate": 136,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -87.6,
@@ -10280,11 +10280,11 @@
       "TimetoLastTradingDate": 136,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3110.0,
+        "open": 3120.0,
         "high": 3130.0,
         "low": 3090.0,
         "close": 3120.0,
-        "volume": 10392400
+        "volume": 10363200
       },
       "WarrantMetrics": {
         "intrinsicValue": -256.6,
@@ -10321,11 +10321,11 @@
       "TimetoLastTradingDate": 136,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 334.0,
+        "open": 336.0,
         "high": 340.0,
         "low": 330.0,
         "close": 330.0,
-        "volume": 31382900
+        "volume": 31290400
       },
       "WarrantMetrics": {
         "intrinsicValue": -61.46,
@@ -10395,7 +10395,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -118.0,
@@ -10432,11 +10432,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -197.0,
@@ -10477,7 +10477,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -173.0,
@@ -10518,7 +10518,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -112.0,
@@ -10559,7 +10559,7 @@
         "high": 352.0,
         "low": 344.0,
         "close": 352.0,
-        "volume": 11159400
+        "volume": 11084700
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.75,
@@ -10600,7 +10600,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -280.5,
@@ -10641,7 +10641,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -218.75,
@@ -10719,11 +10719,11 @@
       "TimetoLastTradingDate": 14,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -129.5,
@@ -10764,7 +10764,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 22.0,
@@ -10805,7 +10805,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -91.0,
@@ -10842,11 +10842,11 @@
       "TimetoLastTradingDate": 168,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -167.5,
@@ -10887,7 +10887,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -329.5,
@@ -10928,7 +10928,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -266.25,
@@ -10969,7 +10969,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -141.0,
@@ -11006,11 +11006,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1330.0,
+        "open": 1325.0,
         "high": 1360.0,
         "low": 1315.0,
         "close": 1335.0,
-        "volume": 46155200
+        "volume": 45667700
       },
       "WarrantMetrics": {
         "intrinsicValue": -104.5,
@@ -11092,7 +11092,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": -1.67,
@@ -11129,11 +11129,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -158.5,
@@ -11215,7 +11215,7 @@
         "high": 352.0,
         "low": 344.0,
         "close": 352.0,
-        "volume": 11159400
+        "volume": 11084700
       },
       "WarrantMetrics": {
         "intrinsicValue": -60.75,
@@ -11256,7 +11256,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -206.67,
@@ -11416,11 +11416,11 @@
       "TimetoLastTradingDate": 168,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -262.0,
@@ -11461,7 +11461,7 @@
         "high": 352.0,
         "low": 344.0,
         "close": 352.0,
-        "volume": 11159400
+        "volume": 11084700
       },
       "WarrantMetrics": {
         "intrinsicValue": -69.0,
@@ -11539,11 +11539,11 @@
       "TimetoLastTradingDate": 149,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1230.0,
+        "open": 1235.0,
         "high": 1285.0,
         "low": 1230.0,
         "close": 1260.0,
-        "volume": 55021200
+        "volume": 54314800
       },
       "WarrantMetrics": {
         "intrinsicValue": -18.0,
@@ -11666,7 +11666,7 @@
         "high": 112.0,
         "low": 107.0,
         "close": 108.0,
-        "volume": 79127000
+        "volume": 78780700
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.33,
@@ -11748,7 +11748,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -158.6,
@@ -11789,7 +11789,7 @@
         "high": 1625.0,
         "low": 1585.0,
         "close": 1620.0,
-        "volume": 3832800
+        "volume": 3818600
       },
       "WarrantMetrics": {
         "intrinsicValue": -92.8,
@@ -11830,7 +11830,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 49.0,
@@ -11871,7 +11871,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": -72.14,
@@ -11953,7 +11953,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -102.5,
@@ -11990,11 +11990,11 @@
       "TimetoLastTradingDate": 168,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3110.0,
+        "open": 3120.0,
         "high": 3130.0,
         "low": 3090.0,
         "close": 3120.0,
-        "volume": 10392400
+        "volume": 10363200
       },
       "WarrantMetrics": {
         "intrinsicValue": -132.22,
@@ -12158,7 +12158,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -139.64,
@@ -12199,7 +12199,7 @@
         "high": 585.0,
         "low": 560.0,
         "close": 575.0,
-        "volume": 18942900
+        "volume": 18669100
       },
       "WarrantMetrics": {
         "intrinsicValue": -60.71,
@@ -12240,7 +12240,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -80.0,
@@ -12359,11 +12359,11 @@
       "TimetoLastTradingDate": 168,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 645.0,
+        "open": 650.0,
         "high": 650.0,
         "low": 635.0,
         "close": 640.0,
-        "volume": 12700100
+        "volume": 12606300
       },
       "WarrantMetrics": {
         "intrinsicValue": 15.0,
@@ -12568,7 +12568,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": -135.0,
@@ -12605,11 +12605,11 @@
       "TimetoLastTradingDate": 29,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1330.0,
+        "open": 1325.0,
         "high": 1360.0,
         "low": 1315.0,
         "close": 1335.0,
-        "volume": 46155200
+        "volume": 45667700
       },
       "WarrantMetrics": {
         "intrinsicValue": -316.25,
@@ -12650,7 +12650,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -466.0,
@@ -12687,11 +12687,11 @@
       "TimetoLastTradingDate": 29,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -580.0,
@@ -12896,7 +12896,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -711.0,
@@ -12937,7 +12937,7 @@
         "high": 1375.0,
         "low": 1350.0,
         "close": 1355.0,
-        "volume": 8389300
+        "volume": 8279200
       },
       "WarrantMetrics": {
         "intrinsicValue": -147.5,
@@ -12974,11 +12974,11 @@
       "TimetoLastTradingDate": 29,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": -382.5,
@@ -13101,7 +13101,7 @@
         "high": 585.0,
         "low": 560.0,
         "close": 575.0,
-        "volume": 18942900
+        "volume": 18669100
       },
       "WarrantMetrics": {
         "intrinsicValue": -69.0,
@@ -13142,7 +13142,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": -138.75,
@@ -13183,7 +13183,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -3.0,
@@ -13265,7 +13265,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -106.43,
@@ -13347,7 +13347,7 @@
         "high": 1050.0,
         "low": 1025.0,
         "close": 1040.0,
-        "volume": 1907800
+        "volume": 1906600
       },
       "WarrantMetrics": {
         "intrinsicValue": -71.57,
@@ -13429,7 +13429,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -182.86,
@@ -13548,11 +13548,11 @@
       "TimetoLastTradingDate": 155,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -146.25,
@@ -13589,11 +13589,11 @@
       "TimetoLastTradingDate": 155,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": 103.0,
@@ -13630,11 +13630,11 @@
       "TimetoLastTradingDate": 155,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1740.0,
+        "open": 1745.0,
         "high": 1910.0,
         "low": 1740.0,
         "close": 1910.0,
-        "volume": 64799300
+        "volume": 64705100
       },
       "WarrantMetrics": {
         "intrinsicValue": -148.33,
@@ -13675,7 +13675,7 @@
         "high": 112.0,
         "low": 107.0,
         "close": 108.0,
-        "volume": 79127000
+        "volume": 78780700
       },
       "WarrantMetrics": {
         "intrinsicValue": -92.0,
@@ -13876,11 +13876,11 @@
       "TimetoLastTradingDate": 167,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.4,
@@ -14040,11 +14040,11 @@
       "TimetoLastTradingDate": 167,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1330.0,
+        "open": 1325.0,
         "high": 1360.0,
         "low": 1315.0,
         "close": 1335.0,
-        "volume": 46155200
+        "volume": 45667700
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.58,
@@ -14085,7 +14085,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -196.92,
@@ -14163,11 +14163,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 8550.0,
+        "open": 8575.0,
         "high": 8800.0,
         "low": 8450.0,
         "close": 8750.0,
-        "volume": 7504100
+        "volume": 7489400
       },
       "WarrantMetrics": {
         "intrinsicValue": 6.76,
@@ -14204,11 +14204,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 645.0,
+        "open": 650.0,
         "high": 650.0,
         "low": 635.0,
         "close": 640.0,
-        "volume": 12700100
+        "volume": 12606300
       },
       "WarrantMetrics": {
         "intrinsicValue": 6.67,
@@ -14327,11 +14327,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3910.0,
+        "open": 3900.0,
         "high": 3940.0,
         "low": 3830.0,
         "close": 3940.0,
-        "volume": 60732800
+        "volume": 59232800
       },
       "WarrantMetrics": {
         "intrinsicValue": -89.0,
@@ -14618,7 +14618,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": 4.29,
@@ -14819,11 +14819,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 149.0,
+        "open": 150.0,
         "high": 152.0,
         "low": 147.0,
         "close": 150.0,
-        "volume": 1358919500
+        "volume": 1345647200
       },
       "WarrantMetrics": {
         "intrinsicValue": -150.0,
@@ -14860,11 +14860,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": -4.38,
@@ -14901,11 +14901,11 @@
       "TimetoLastTradingDate": 115,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 149.0,
+        "open": 150.0,
         "high": 152.0,
         "low": 147.0,
         "close": 150.0,
-        "volume": 1358919500
+        "volume": 1345647200
       },
       "WarrantMetrics": {
         "intrinsicValue": -210.0,
@@ -15069,7 +15069,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 56.0,
@@ -15233,7 +15233,7 @@
         "high": 6500.0,
         "low": 6200.0,
         "close": 6475.0,
-        "volume": 319191300
+        "volume": 314564200
       },
       "WarrantMetrics": {
         "intrinsicValue": -384.09,
@@ -15311,11 +15311,11 @@
       "TimetoLastTradingDate": 115,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 805.0,
+        "open": 810.0,
         "high": 815.0,
         "low": 795.0,
         "close": 800.0,
-        "volume": 200294400
+        "volume": 197502200
       },
       "WarrantMetrics": {
         "intrinsicValue": -1037.14,
@@ -15397,7 +15397,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": 3.5,
@@ -15438,7 +15438,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -57.5,
@@ -15520,7 +15520,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -161.33,
@@ -15639,11 +15639,11 @@
       "TimetoLastTradingDate": 181,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 149.0,
+        "open": 150.0,
         "high": 152.0,
         "low": 147.0,
         "close": 150.0,
-        "volume": 1358919500
+        "volume": 1345647200
       },
       "WarrantMetrics": {
         "intrinsicValue": -136.67,
@@ -15762,11 +15762,11 @@
       "TimetoLastTradingDate": 181,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -109.45,
@@ -15889,7 +15889,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": -171.25,
@@ -16053,7 +16053,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -141.0,
@@ -16094,7 +16094,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": -201.25,
@@ -16135,7 +16135,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -178.75,
@@ -16668,7 +16668,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -289.0,
@@ -16705,11 +16705,11 @@
       "TimetoLastTradingDate": 76,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": -10.0,
@@ -16828,11 +16828,11 @@
       "TimetoLastTradingDate": 135,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": -192.5,
@@ -16910,11 +16910,11 @@
       "TimetoLastTradingDate": 251,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -202.86,
@@ -16996,7 +16996,7 @@
         "high": 1540.0,
         "low": 1515.0,
         "close": 1530.0,
-        "volume": 9794000
+        "volume": 9707300
       },
       "WarrantMetrics": {
         "intrinsicValue": -23.33,
@@ -17119,7 +17119,7 @@
         "high": 3000.0,
         "low": 2840.0,
         "close": 2970.0,
-        "volume": 441992600
+        "volume": 439266600
       },
       "WarrantMetrics": {
         "intrinsicValue": -371.67,
@@ -17160,7 +17160,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 23.33,
@@ -17406,7 +17406,7 @@
         "high": 2520.0,
         "low": 2490.0,
         "close": 2490.0,
-        "volume": 19383700
+        "volume": 19140100
       },
       "WarrantMetrics": {
         "intrinsicValue": 12.86,
@@ -17447,7 +17447,7 @@
         "high": 112.0,
         "low": 107.0,
         "close": 108.0,
-        "volume": 79127000
+        "volume": 78780700
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.33,
@@ -17689,11 +17689,11 @@
       "TimetoLastTradingDate": 227,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1230.0,
+        "open": 1235.0,
         "high": 1285.0,
         "low": 1230.0,
         "close": 1260.0,
-        "volume": 55021200
+        "volume": 54314800
       },
       "WarrantMetrics": {
         "intrinsicValue": -15.0,
@@ -17734,7 +17734,7 @@
         "high": 352.0,
         "low": 344.0,
         "close": 352.0,
-        "volume": 11159400
+        "volume": 11084700
       },
       "WarrantMetrics": {
         "intrinsicValue": -14.5,
@@ -17898,7 +17898,7 @@
         "high": 1220.0,
         "low": 1195.0,
         "close": 1215.0,
-        "volume": 2701400
+        "volume": 2694600
       },
       "WarrantMetrics": {
         "intrinsicValue": -326.0,
@@ -17935,11 +17935,11 @@
       "TimetoLastTradingDate": 286,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3500.0,
+        "open": 3510.0,
         "high": 3640.0,
         "low": 3470.0,
         "close": 3580.0,
-        "volume": 103072800
+        "volume": 102411200
       },
       "WarrantMetrics": {
         "intrinsicValue": -504.0,
@@ -18062,7 +18062,7 @@
         "high": 3070.0,
         "low": 3000.0,
         "close": 3070.0,
-        "volume": 84673200
+        "volume": 80284500
       },
       "WarrantMetrics": {
         "intrinsicValue": -545.56,
@@ -18103,7 +18103,7 @@
         "high": 4490.0,
         "low": 4270.0,
         "close": 4480.0,
-        "volume": 263357500
+        "volume": 258763500
       },
       "WarrantMetrics": {
         "intrinsicValue": -227.5,
@@ -18144,7 +18144,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": -360.0,
@@ -18181,11 +18181,11 @@
       "TimetoLastTradingDate": 139,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3110.0,
+        "open": 3120.0,
         "high": 3130.0,
         "low": 3090.0,
         "close": 3120.0,
-        "volume": 10392400
+        "volume": 10363200
       },
       "WarrantMetrics": {
         "intrinsicValue": -261.67,
@@ -18345,11 +18345,11 @@
       "TimetoLastTradingDate": 139,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": -245.0,
@@ -18796,11 +18796,11 @@
       "TimetoLastTradingDate": 227,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 149.0,
+        "open": 150.0,
         "high": 152.0,
         "low": 147.0,
         "close": 150.0,
-        "volume": 1358919500
+        "volume": 1345647200
       },
       "WarrantMetrics": {
         "intrinsicValue": -120.8,
@@ -19005,7 +19005,7 @@
         "high": 1220.0,
         "low": 1195.0,
         "close": 1215.0,
-        "volume": 2701400
+        "volume": 2694600
       },
       "WarrantMetrics": {
         "intrinsicValue": -74.5,
@@ -19329,11 +19329,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 645.0,
+        "open": 650.0,
         "high": 650.0,
         "low": 635.0,
         "close": 640.0,
-        "volume": 12700100
+        "volume": 12606300
       },
       "WarrantMetrics": {
         "intrinsicValue": -113.33,
@@ -19370,11 +19370,11 @@
       "TimetoLastTradingDate": 135,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 3910.0,
+        "open": 3900.0,
         "high": 3940.0,
         "low": 3830.0,
         "close": 3940.0,
-        "volume": 60732800
+        "volume": 59232800
       },
       "WarrantMetrics": {
         "intrinsicValue": -151.5,
@@ -19456,7 +19456,7 @@
         "high": 112.0,
         "low": 107.0,
         "close": 108.0,
-        "volume": 79127000
+        "volume": 78780700
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.0,
@@ -19534,11 +19534,11 @@
       "TimetoLastTradingDate": 197,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 8550.0,
+        "open": 8575.0,
         "high": 8800.0,
         "low": 8450.0,
         "close": 8750.0,
-        "volume": 7504100
+        "volume": 7489400
       },
       "WarrantMetrics": {
         "intrinsicValue": -32.14,
@@ -19616,11 +19616,11 @@
       "TimetoLastTradingDate": 259,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1320.0,
+        "open": 1325.0,
         "high": 1435.0,
         "low": 1320.0,
         "close": 1405.0,
-        "volume": 25241100
+        "volume": 24898100
       },
       "WarrantMetrics": {
         "intrinsicValue": -13.0,
@@ -19821,11 +19821,11 @@
       "TimetoLastTradingDate": 259,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 5100.0,
+        "open": 5125.0,
         "high": 5200.0,
         "low": 5025.0,
         "close": 5100.0,
-        "volume": 67012100
+        "volume": 65960600
       },
       "WarrantMetrics": {
         "intrinsicValue": -63.33,
@@ -19866,7 +19866,7 @@
         "high": 560.0,
         "low": 535.0,
         "close": 545.0,
-        "volume": 444103900
+        "volume": 441276500
       },
       "WarrantMetrics": {
         "intrinsicValue": -81.88,
@@ -19907,7 +19907,7 @@
         "high": 1715.0,
         "low": 1660.0,
         "close": 1695.0,
-        "volume": 141348800
+        "volume": 140462700
       },
       "WarrantMetrics": {
         "intrinsicValue": -27.0,
@@ -19944,11 +19944,11 @@
       "TimetoLastTradingDate": 259,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 149.0,
+        "open": 150.0,
         "high": 152.0,
         "low": 147.0,
         "close": 150.0,
-        "volume": 1358919500
+        "volume": 1345647200
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.33,
@@ -20026,11 +20026,11 @@
       "TimetoLastTradingDate": 259,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 575.0,
+        "open": 580.0,
         "high": 580.0,
         "low": 565.0,
         "close": 570.0,
-        "volume": 24986500
+        "volume": 24848300
       },
       "WarrantMetrics": {
         "intrinsicValue": -54.29,
@@ -20071,7 +20071,7 @@
         "high": 545.0,
         "low": 520.0,
         "close": 535.0,
-        "volume": 43130100
+        "volume": 42204000
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.12,
@@ -20190,11 +20190,11 @@
       "TimetoLastTradingDate": 259,
       "UnderlyingOHLC": {
         "date": "2026-07-17",
-        "open": 1395.0,
+        "open": 1400.0,
         "high": 1410.0,
         "low": 1355.0,
         "close": 1365.0,
-        "volume": 35320100
+        "volume": 35254500
       },
       "WarrantMetrics": {
         "intrinsicValue": 12.78,
