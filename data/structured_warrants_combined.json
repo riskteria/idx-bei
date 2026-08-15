@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-14 13:10:42",
+  "generatedAt": "2026-08-15 05:49:04",
   "warrantFilteredDate": "2026-02-10",
-  "ohlcFetchedAt": "2026-08-14 13:10:42",
+  "ohlcFetchedAt": "2026-08-15 05:49:04",
   "pricesFetchedAt": "2026-02-10T21:36:33.535982",
   "totalWarrants": 493,
   "withOHLC": 493,
@@ -4131,7 +4131,7 @@
       "UnderlyingOHLC": {
         "date": "2026-08-14",
         "open": 24425.0,
-        "high": 25050.0,
+        "high": 25075.0,
         "low": 24200.0,
         "close": 25000.0,
         "volume": 1540400
@@ -4582,7 +4582,7 @@
       "UnderlyingOHLC": {
         "date": "2026-08-14",
         "open": 24425.0,
-        "high": 25050.0,
+        "high": 25075.0,
         "low": 24200.0,
         "close": 25000.0,
         "volume": 1540400
@@ -8436,7 +8436,7 @@
       "UnderlyingOHLC": {
         "date": "2026-08-14",
         "open": 24425.0,
-        "high": 25050.0,
+        "high": 25075.0,
         "low": 24200.0,
         "close": 25000.0,
         "volume": 1540400
