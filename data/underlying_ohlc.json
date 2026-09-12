@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11 16:04:15",
+  "fetchedAt": "2026-09-12 09:30:27",
   "totalTickers": 88,
   "successCount": 88,
   "failCount": 0,
@@ -32,7 +32,7 @@
       "high": 1645.0,
       "low": 1585.0,
       "close": 1600.0,
-      "volume": 37923600
+      "volume": 37918600
     },
     "ADRO": {
       "ticker": "ADRO",
@@ -62,7 +62,7 @@
       "high": 4920.0,
       "low": 4650.0,
       "close": 4860.0,
-      "volume": 89519400
+      "volume": 89519300
     },
     "AMRT": {
       "ticker": "AMRT",
@@ -152,7 +152,7 @@
       "high": 3320.0,
       "low": 3250.0,
       "close": 3270.0,
-      "volume": 217303600
+      "volume": 217302800
     },
     "BBTN": {
       "ticker": "BBTN",
@@ -222,7 +222,7 @@
       "high": 1725.0,
       "low": 1685.0,
       "close": 1700.0,
-      "volume": 46176900
+      "volume": 46175500
     },
     "BSDE": {
       "ticker": "BSDE",
@@ -282,7 +282,7 @@
       "high": 3250.0,
       "low": 3140.0,
       "close": 3160.0,
-      "volume": 52897800
+      "volume": 52753000
     },
     "CTRA": {
       "ticker": "CTRA",
@@ -312,7 +312,7 @@
       "high": 1125.0,
       "low": 1060.0,
       "close": 1100.0,
-      "volume": 368635200
+      "volume": 368367700
     },
     "ELSA": {
       "ticker": "ELSA",
@@ -532,7 +532,7 @@
       "high": 204.0,
       "low": 184.0,
       "close": 197.0,
-      "volume": 426539200
+      "volume": 426414200
     },
     "KLBF": {
       "ticker": "KLBF",
@@ -562,7 +562,7 @@
       "high": 1745.0,
       "low": 1660.0,
       "close": 1700.0,
-      "volume": 15990300
+      "volume": 15839100
     },
     "MAPA": {
       "ticker": "MAPA",
@@ -602,7 +602,7 @@
       "high": 3050.0,
       "low": 2940.0,
       "close": 3050.0,
-      "volume": 32473600
+      "volume": 32472800
     },
     "MEDC": {
       "ticker": "MEDC",
