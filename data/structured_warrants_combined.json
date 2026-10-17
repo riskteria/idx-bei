@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-16 16:16:40",
+  "generatedAt": "2026-10-17 09:32:49",
   "warrantFilteredDate": "2026-09-22",
-  "ohlcFetchedAt": "2026-10-16 16:16:40",
+  "ohlcFetchedAt": "2026-10-17 09:32:49",
   "pricesFetchedAt": "2026-09-21T17:59:13.561517",
   "totalWarrants": 571,
   "withOHLC": 571,
@@ -34,7 +34,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": 200.0,
@@ -157,7 +157,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -310.0,
@@ -239,7 +239,7 @@
         "high": 6500.0,
         "low": 5925.0,
         "close": 6300.0,
-        "volume": 18581700
+        "volume": 18967600
       },
       "WarrantMetrics": {
         "intrinsicValue": -800.0,
@@ -280,7 +280,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": 40.0,
@@ -321,7 +321,7 @@
         "high": 6900.0,
         "low": 5925.0,
         "close": 6625.0,
-        "volume": 29824700
+        "volume": 30553100
       },
       "WarrantMetrics": {
         "intrinsicValue": 2025.0,
@@ -403,7 +403,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -357.11,
@@ -485,7 +485,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -332.5,
@@ -526,7 +526,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -289.29,
@@ -608,7 +608,7 @@
         "high": 950.0,
         "low": 880.0,
         "close": 885.0,
-        "volume": 62234000
+        "volume": 64668700
       },
       "WarrantMetrics": {
         "intrinsicValue": -278.33,
@@ -649,7 +649,7 @@
         "high": 24300.0,
         "low": 21525.0,
         "close": 23000.0,
-        "volume": 3636700
+        "volume": 3730800
       },
       "WarrantMetrics": {
         "intrinsicValue": -735.61,
@@ -731,7 +731,7 @@
         "high": 6900.0,
         "low": 5925.0,
         "close": 6625.0,
-        "volume": 29824700
+        "volume": 30553100
       },
       "WarrantMetrics": {
         "intrinsicValue": -118.0,
@@ -772,7 +772,7 @@
         "high": 6500.0,
         "low": 5925.0,
         "close": 6300.0,
-        "volume": 18581700
+        "volume": 18967600
       },
       "WarrantMetrics": {
         "intrinsicValue": -236.0,
@@ -854,7 +854,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -670.0,
@@ -936,7 +936,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -971.0,
@@ -977,7 +977,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -201.28,
@@ -1018,7 +1018,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -426.67,
@@ -1100,7 +1100,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -1582.5,
@@ -1141,7 +1141,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -480.45,
@@ -1182,7 +1182,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -240.0,
@@ -1223,7 +1223,7 @@
         "high": 2960.0,
         "low": 2730.0,
         "close": 2800.0,
-        "volume": 138060600
+        "volume": 141705700
       },
       "WarrantMetrics": {
         "intrinsicValue": 8.33,
@@ -1264,7 +1264,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -201.25,
@@ -1346,7 +1346,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -48.0,
@@ -1387,7 +1387,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -49.0,
@@ -1428,7 +1428,7 @@
         "high": 1430.0,
         "low": 1260.0,
         "close": 1370.0,
-        "volume": 27381400
+        "volume": 28989200
       },
       "WarrantMetrics": {
         "intrinsicValue": -103.0,
@@ -1469,7 +1469,7 @@
         "high": 2340.0,
         "low": 2110.0,
         "close": 2110.0,
-        "volume": 17105900
+        "volume": 17832500
       },
       "WarrantMetrics": {
         "intrinsicValue": -190.83,
@@ -1510,7 +1510,7 @@
         "high": 725.0,
         "low": 685.0,
         "close": 685.0,
-        "volume": 22105700
+        "volume": 23736000
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.38,
@@ -1551,7 +1551,7 @@
         "high": 1395.0,
         "low": 1190.0,
         "close": 1190.0,
-        "volume": 124707900
+        "volume": 128500100
       },
       "WarrantMetrics": {
         "intrinsicValue": -151.67,
@@ -1592,7 +1592,7 @@
         "high": 950.0,
         "low": 880.0,
         "close": 885.0,
-        "volume": 62234000
+        "volume": 64668700
       },
       "WarrantMetrics": {
         "intrinsicValue": -77.5,
@@ -1674,7 +1674,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -291.5,
@@ -1715,7 +1715,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -78.33,
@@ -1756,7 +1756,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -49.67,
@@ -1797,7 +1797,7 @@
         "high": 1390.0,
         "low": 1250.0,
         "close": 1300.0,
-        "volume": 5800700
+        "volume": 6176400
       },
       "WarrantMetrics": {
         "intrinsicValue": -292.0,
@@ -1879,7 +1879,7 @@
         "high": 23700.0,
         "low": 21475.0,
         "close": 22625.0,
-        "volume": 10619100
+        "volume": 10997200
       },
       "WarrantMetrics": {
         "intrinsicValue": -1231.25,
@@ -1920,7 +1920,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -418.0,
@@ -1961,7 +1961,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -119.24,
@@ -2002,7 +2002,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -90.25,
@@ -2043,7 +2043,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -127.2,
@@ -2084,7 +2084,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 505.0,
-        "volume": 19263000
+        "volume": 20895500
       },
       "WarrantMetrics": {
         "intrinsicValue": -168.12,
@@ -2125,7 +2125,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.0,
@@ -2166,7 +2166,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -87.75,
@@ -2248,7 +2248,7 @@
         "high": 1440.0,
         "low": 1360.0,
         "close": 1360.0,
-        "volume": 30517200
+        "volume": 31938300
       },
       "WarrantMetrics": {
         "intrinsicValue": -126.15,
@@ -2289,7 +2289,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": -140.0,
@@ -2330,7 +2330,7 @@
         "high": 426.0,
         "low": 382.0,
         "close": 388.0,
-        "volume": 209060900
+        "volume": 219401000
       },
       "WarrantMetrics": {
         "intrinsicValue": -35.33,
@@ -2371,7 +2371,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -88.24,
@@ -2453,7 +2453,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -91.5,
@@ -2494,7 +2494,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.33,
@@ -2535,7 +2535,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.67,
@@ -2576,7 +2576,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -76.25,
@@ -2617,7 +2617,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 540.0,
-        "volume": 51493700
+        "volume": 52756900
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.57,
@@ -2658,7 +2658,7 @@
         "high": 350.0,
         "low": 328.0,
         "close": 334.0,
-        "volume": 172946700
+        "volume": 176589400
       },
       "WarrantMetrics": {
         "intrinsicValue": -83.25,
@@ -2699,7 +2699,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.0,
@@ -2740,7 +2740,7 @@
         "high": 127.0,
         "low": 119.0,
         "close": 123.0,
-        "volume": 343735400
+        "volume": 349970900
       },
       "WarrantMetrics": {
         "intrinsicValue": -42.33,
@@ -2781,7 +2781,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.11,
@@ -2822,7 +2822,7 @@
         "high": 720.0,
         "low": 675.0,
         "close": 675.0,
-        "volume": 144024400
+        "volume": 157452400
       },
       "WarrantMetrics": {
         "intrinsicValue": -201.0,
@@ -2863,7 +2863,7 @@
         "high": 35.0,
         "low": 32.0,
         "close": 32.0,
-        "volume": 258034100
+        "volume": 274333200
       },
       "WarrantMetrics": {
         "intrinsicValue": -70.4,
@@ -2904,7 +2904,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -262.0,
@@ -2945,7 +2945,7 @@
         "high": 159.0,
         "low": 148.0,
         "close": 148.0,
-        "volume": 77615400
+        "volume": 83941700
       },
       "WarrantMetrics": {
         "intrinsicValue": -102.67,
@@ -2986,7 +2986,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -189.57,
@@ -3068,7 +3068,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -167.5,
@@ -3109,7 +3109,7 @@
         "high": 282.0,
         "low": 250.0,
         "close": 264.0,
-        "volume": 127660200
+        "volume": 131462300
       },
       "WarrantMetrics": {
         "intrinsicValue": -125.5,
@@ -3150,7 +3150,7 @@
         "high": 2960.0,
         "low": 2730.0,
         "close": 2800.0,
-        "volume": 138060600
+        "volume": 141705700
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.0,
@@ -3191,7 +3191,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -161.6,
@@ -3314,7 +3314,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -131.88,
@@ -3355,7 +3355,7 @@
         "high": 175.0,
         "low": 163.0,
         "close": 164.0,
-        "volume": 95754100
+        "volume": 106534600
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.33,
@@ -3396,7 +3396,7 @@
         "high": 915.0,
         "low": 870.0,
         "close": 880.0,
-        "volume": 57191000
+        "volume": 59362200
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.25,
@@ -3437,7 +3437,7 @@
         "high": 242.0,
         "low": 226.0,
         "close": 230.0,
-        "volume": 78479500
+        "volume": 92435800
       },
       "WarrantMetrics": {
         "intrinsicValue": -56.67,
@@ -3478,7 +3478,7 @@
         "high": 565.0,
         "low": 525.0,
         "close": 525.0,
-        "volume": 302165200
+        "volume": 309353800
       },
       "WarrantMetrics": {
         "intrinsicValue": 26.25,
@@ -3519,7 +3519,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -158.0,
@@ -3601,7 +3601,7 @@
         "high": 950.0,
         "low": 880.0,
         "close": 885.0,
-        "volume": 62234000
+        "volume": 64668700
       },
       "WarrantMetrics": {
         "intrinsicValue": -133.0,
@@ -3642,7 +3642,7 @@
         "high": 1905.0,
         "low": 1855.0,
         "close": 1855.0,
-        "volume": 40971900
+        "volume": 41687500
       },
       "WarrantMetrics": {
         "intrinsicValue": -271.5,
@@ -3683,7 +3683,7 @@
         "high": 282.0,
         "low": 250.0,
         "close": 264.0,
-        "volume": 127660200
+        "volume": 131462300
       },
       "WarrantMetrics": {
         "intrinsicValue": -90.67,
@@ -3724,7 +3724,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -112.33,
@@ -3765,7 +3765,7 @@
         "high": 520.0,
         "low": 520.0,
         "close": 520.0,
-        "volume": 28222500
+        "volume": 28841600
       },
       "WarrantMetrics": {
         "intrinsicValue": -36.0,
@@ -3888,7 +3888,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -151.0,
@@ -3970,7 +3970,7 @@
         "high": 1905.0,
         "low": 1855.0,
         "close": 1855.0,
-        "volume": 40971900
+        "volume": 41687500
       },
       "WarrantMetrics": {
         "intrinsicValue": -183.69,
@@ -4011,7 +4011,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -150.5,
@@ -4052,7 +4052,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -77.17,
@@ -4093,7 +4093,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -144.0,
@@ -4134,7 +4134,7 @@
         "high": 1815.0,
         "low": 1815.0,
         "close": 1815.0,
-        "volume": 11600100
+        "volume": 12562600
       },
       "WarrantMetrics": {
         "intrinsicValue": -119.91,
@@ -4175,7 +4175,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -54.33,
@@ -4216,7 +4216,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 505.0,
-        "volume": 19263000
+        "volume": 20895500
       },
       "WarrantMetrics": {
         "intrinsicValue": -173.83,
@@ -4257,7 +4257,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.18,
@@ -4298,7 +4298,7 @@
         "high": 6500.0,
         "low": 5925.0,
         "close": 6300.0,
-        "volume": 18581700
+        "volume": 18967600
       },
       "WarrantMetrics": {
         "intrinsicValue": -81.3,
@@ -4339,7 +4339,7 @@
         "high": 1940.0,
         "low": 1720.0,
         "close": 1765.0,
-        "volume": 42041200
+        "volume": 43540700
       },
       "WarrantMetrics": {
         "intrinsicValue": -22.67,
@@ -4380,7 +4380,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -86.24,
@@ -4421,7 +4421,7 @@
         "high": 23700.0,
         "low": 21475.0,
         "close": 22625.0,
-        "volume": 10619100
+        "volume": 10997200
       },
       "WarrantMetrics": {
         "intrinsicValue": -354.49,
@@ -4462,7 +4462,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -129.65,
@@ -4503,7 +4503,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -136.8,
@@ -4544,7 +4544,7 @@
         "high": 2340.0,
         "low": 2110.0,
         "close": 2110.0,
-        "volume": 17105900
+        "volume": 17832500
       },
       "WarrantMetrics": {
         "intrinsicValue": -132.33,
@@ -4585,7 +4585,7 @@
         "high": 127.0,
         "low": 119.0,
         "close": 123.0,
-        "volume": 343735400
+        "volume": 349970900
       },
       "WarrantMetrics": {
         "intrinsicValue": -28.47,
@@ -4626,7 +4626,7 @@
         "high": 1400.0,
         "low": 1275.0,
         "close": 1320.0,
-        "volume": 8340800
+        "volume": 8533700
       },
       "WarrantMetrics": {
         "intrinsicValue": 2.86,
@@ -4667,7 +4667,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.33,
@@ -4708,7 +4708,7 @@
         "high": 23700.0,
         "low": 21475.0,
         "close": 22625.0,
-        "volume": 10619100
+        "volume": 10997200
       },
       "WarrantMetrics": {
         "intrinsicValue": -347.5,
@@ -4749,7 +4749,7 @@
         "high": 7675.0,
         "low": 6950.0,
         "close": 6950.0,
-        "volume": 17251300
+        "volume": 17965500
       },
       "WarrantMetrics": {
         "intrinsicValue": -71.0,
@@ -4790,7 +4790,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.8,
@@ -4872,7 +4872,7 @@
         "high": 27.0,
         "low": 23.0,
         "close": 25.0,
-        "volume": 4003266436
+        "volume": 46128857900
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.0,
@@ -4954,7 +4954,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -70.83,
@@ -4995,7 +4995,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.17,
@@ -5036,7 +5036,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.2,
@@ -5077,7 +5077,7 @@
         "high": 720.0,
         "low": 675.0,
         "close": 675.0,
-        "volume": 144024400
+        "volume": 157452400
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.43,
@@ -5118,7 +5118,7 @@
         "high": 715.0,
         "low": 715.0,
         "close": 715.0,
-        "volume": 189942100
+        "volume": 212858400
       },
       "WarrantMetrics": {
         "intrinsicValue": -328.5,
@@ -5241,7 +5241,7 @@
         "high": 1430.0,
         "low": 1260.0,
         "close": 1370.0,
-        "volume": 27381400
+        "volume": 28989200
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.0,
@@ -5282,7 +5282,7 @@
         "high": 4570.0,
         "low": 3920.0,
         "close": 4250.0,
-        "volume": 10645100
+        "volume": 10928000
       },
       "WarrantMetrics": {
         "intrinsicValue": -21.43,
@@ -5323,7 +5323,7 @@
         "high": 24300.0,
         "low": 21525.0,
         "close": 23000.0,
-        "volume": 3636700
+        "volume": 3730800
       },
       "WarrantMetrics": {
         "intrinsicValue": -160.0,
@@ -5364,7 +5364,7 @@
         "high": 1945.0,
         "low": 1750.0,
         "close": 1765.0,
-        "volume": 22208300
+        "volume": 22922700
       },
       "WarrantMetrics": {
         "intrinsicValue": -68.06,
@@ -5446,7 +5446,7 @@
         "high": 565.0,
         "low": 525.0,
         "close": 525.0,
-        "volume": 302165200
+        "volume": 309353800
       },
       "WarrantMetrics": {
         "intrinsicValue": 6.25,
@@ -5487,7 +5487,7 @@
         "high": 535.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 73875600
+        "volume": 78500700
       },
       "WarrantMetrics": {
         "intrinsicValue": -87.0,
@@ -5528,7 +5528,7 @@
         "high": 520.0,
         "low": 520.0,
         "close": 520.0,
-        "volume": 28222500
+        "volume": 28841600
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.62,
@@ -5569,7 +5569,7 @@
         "high": 6900.0,
         "low": 5925.0,
         "close": 6625.0,
-        "volume": 29824700
+        "volume": 30553100
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.57,
@@ -5610,7 +5610,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -67.33,
@@ -5651,7 +5651,7 @@
         "high": 175.0,
         "low": 163.0,
         "close": 164.0,
-        "volume": 95754100
+        "volume": 106534600
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.4,
@@ -5692,7 +5692,7 @@
         "high": 7675.0,
         "low": 6950.0,
         "close": 6950.0,
-        "volume": 17251300
+        "volume": 17965500
       },
       "WarrantMetrics": {
         "intrinsicValue": -185.0,
@@ -5733,7 +5733,7 @@
         "high": 1395.0,
         "low": 1190.0,
         "close": 1190.0,
-        "volume": 124707900
+        "volume": 128500100
       },
       "WarrantMetrics": {
         "intrinsicValue": -115.3,
@@ -5774,7 +5774,7 @@
         "high": 620.0,
         "low": 570.0,
         "close": 575.0,
-        "volume": 70028000
+        "volume": 72625100
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.6,
@@ -5815,7 +5815,7 @@
         "high": 720.0,
         "low": 675.0,
         "close": 675.0,
-        "volume": 144024400
+        "volume": 157452400
       },
       "WarrantMetrics": {
         "intrinsicValue": -99.8,
@@ -5856,7 +5856,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -173.61,
@@ -5897,7 +5897,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -210.5,
@@ -5938,7 +5938,7 @@
         "high": 159.0,
         "low": 148.0,
         "close": 148.0,
-        "volume": 77615400
+        "volume": 83941700
       },
       "WarrantMetrics": {
         "intrinsicValue": -66.0,
@@ -5979,7 +5979,7 @@
         "high": 1390.0,
         "low": 1250.0,
         "close": 1300.0,
-        "volume": 5800700
+        "volume": 6176400
       },
       "WarrantMetrics": {
         "intrinsicValue": -139.33,
@@ -6020,7 +6020,7 @@
         "high": 6900.0,
         "low": 5925.0,
         "close": 6625.0,
-        "volume": 29824700
+        "volume": 30553100
       },
       "WarrantMetrics": {
         "intrinsicValue": -78.6,
@@ -6102,7 +6102,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 540.0,
-        "volume": 51493700
+        "volume": 52756900
       },
       "WarrantMetrics": {
         "intrinsicValue": -76.6,
@@ -6143,7 +6143,7 @@
         "high": 426.0,
         "low": 382.0,
         "close": 388.0,
-        "volume": 209060900
+        "volume": 219401000
       },
       "WarrantMetrics": {
         "intrinsicValue": -97.2,
@@ -6184,7 +6184,7 @@
         "high": 1400.0,
         "low": 1275.0,
         "close": 1320.0,
-        "volume": 8340800
+        "volume": 8533700
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.67,
@@ -6225,7 +6225,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": -156.17,
@@ -6266,7 +6266,7 @@
         "high": 27.0,
         "low": 23.0,
         "close": 25.0,
-        "volume": 4003266436
+        "volume": 46128857900
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.0,
@@ -6307,7 +6307,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -229.15,
@@ -6348,7 +6348,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -136.0,
@@ -6430,7 +6430,7 @@
         "high": 24300.0,
         "low": 21525.0,
         "close": 23000.0,
-        "volume": 3636700
+        "volume": 3730800
       },
       "WarrantMetrics": {
         "intrinsicValue": -210.83,
@@ -6471,7 +6471,7 @@
         "high": 915.0,
         "low": 870.0,
         "close": 880.0,
-        "volume": 57191000
+        "volume": 59362200
       },
       "WarrantMetrics": {
         "intrinsicValue": -60.86,
@@ -6512,7 +6512,7 @@
         "high": 6500.0,
         "low": 5925.0,
         "close": 6300.0,
-        "volume": 18581700
+        "volume": 18967600
       },
       "WarrantMetrics": {
         "intrinsicValue": -24.0,
@@ -6553,7 +6553,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.12,
@@ -6594,7 +6594,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -53.25,
@@ -6635,7 +6635,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.5,
@@ -6676,7 +6676,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -95.0,
@@ -6717,7 +6717,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 540.0,
-        "volume": 51493700
+        "volume": 52756900
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.25,
@@ -6758,7 +6758,7 @@
         "high": 1390.0,
         "low": 1250.0,
         "close": 1300.0,
-        "volume": 5800700
+        "volume": 6176400
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.33,
@@ -6799,7 +6799,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -90.0,
@@ -6840,7 +6840,7 @@
         "high": 1945.0,
         "low": 1750.0,
         "close": 1765.0,
-        "volume": 22208300
+        "volume": 22922700
       },
       "WarrantMetrics": {
         "intrinsicValue": -49.25,
@@ -6881,7 +6881,7 @@
         "high": 282.0,
         "low": 250.0,
         "close": 264.0,
-        "volume": 127660200
+        "volume": 131462300
       },
       "WarrantMetrics": {
         "intrinsicValue": -32.0,
@@ -6922,7 +6922,7 @@
         "high": 620.0,
         "low": 570.0,
         "close": 575.0,
-        "volume": 70028000
+        "volume": 72625100
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.43,
@@ -7004,7 +7004,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -126.25,
@@ -7086,7 +7086,7 @@
         "high": 1905.0,
         "low": 1855.0,
         "close": 1855.0,
-        "volume": 40971900
+        "volume": 41687500
       },
       "WarrantMetrics": {
         "intrinsicValue": -84.88,
@@ -7127,7 +7127,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -69.25,
@@ -7168,7 +7168,7 @@
         "high": 5225.0,
         "low": 4570.0,
         "close": 5150.0,
-        "volume": 4753300
+        "volume": 4862900
       },
       "WarrantMetrics": {
         "intrinsicValue": -17.0,
@@ -7209,7 +7209,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -122.0,
@@ -7250,7 +7250,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": -81.82,
@@ -7332,7 +7332,7 @@
         "high": 24300.0,
         "low": 21525.0,
         "close": 23000.0,
-        "volume": 3636700
+        "volume": 3730800
       },
       "WarrantMetrics": {
         "intrinsicValue": -8.33,
@@ -7373,7 +7373,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -27.4,
@@ -7414,7 +7414,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.33,
@@ -7496,7 +7496,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -12.33,
@@ -7537,7 +7537,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.0,
@@ -7660,7 +7660,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -8.0,
@@ -7701,7 +7701,7 @@
         "high": 4570.0,
         "low": 3920.0,
         "close": 4250.0,
-        "volume": 10645100
+        "volume": 10928000
       },
       "WarrantMetrics": {
         "intrinsicValue": -17.2,
@@ -7742,7 +7742,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -13.0,
@@ -7783,7 +7783,7 @@
         "high": 1430.0,
         "low": 1260.0,
         "close": 1370.0,
-        "volume": 27381400
+        "volume": 28989200
       },
       "WarrantMetrics": {
         "intrinsicValue": -17.67,
@@ -7824,7 +7824,7 @@
         "high": 1395.0,
         "low": 1190.0,
         "close": 1190.0,
-        "volume": 124707900
+        "volume": 128500100
       },
       "WarrantMetrics": {
         "intrinsicValue": -112.22,
@@ -7865,7 +7865,7 @@
         "high": 24300.0,
         "low": 21525.0,
         "close": 23000.0,
-        "volume": 3636700
+        "volume": 3730800
       },
       "WarrantMetrics": {
         "intrinsicValue": -34.78,
@@ -7906,7 +7906,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -69.71,
@@ -7988,7 +7988,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.5,
@@ -8029,7 +8029,7 @@
         "high": 795.0,
         "low": 690.0,
         "close": 690.0,
-        "volume": 201585100
+        "volume": 209024600
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.19,
@@ -8111,7 +8111,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.2,
@@ -8152,7 +8152,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -37.4,
@@ -8193,7 +8193,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -42.5,
@@ -8234,7 +8234,7 @@
         "high": 2960.0,
         "low": 2730.0,
         "close": 2800.0,
-        "volume": 138060600
+        "volume": 141705700
       },
       "WarrantMetrics": {
         "intrinsicValue": -16.67,
@@ -8316,7 +8316,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -47.2,
@@ -8357,7 +8357,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -66.0,
@@ -8398,7 +8398,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -37.33,
@@ -8439,7 +8439,7 @@
         "high": 4570.0,
         "low": 3920.0,
         "close": 4250.0,
-        "volume": 10645100
+        "volume": 10928000
       },
       "WarrantMetrics": {
         "intrinsicValue": -112.0,
@@ -8480,7 +8480,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -48.4,
@@ -8521,7 +8521,7 @@
         "high": 1945.0,
         "low": 1750.0,
         "close": 1765.0,
-        "volume": 22208300
+        "volume": 22922700
       },
       "WarrantMetrics": {
         "intrinsicValue": -79.27,
@@ -8562,7 +8562,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.33,
@@ -8644,7 +8644,7 @@
         "high": 2960.0,
         "low": 2730.0,
         "close": 2800.0,
-        "volume": 138060600
+        "volume": 141705700
       },
       "WarrantMetrics": {
         "intrinsicValue": -53.58,
@@ -8685,7 +8685,7 @@
         "high": 1430.0,
         "low": 1260.0,
         "close": 1370.0,
-        "volume": 27381400
+        "volume": 28989200
       },
       "WarrantMetrics": {
         "intrinsicValue": -112.25,
@@ -8726,7 +8726,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.14,
@@ -8767,7 +8767,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.62,
@@ -8808,7 +8808,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -108.33,
@@ -8849,7 +8849,7 @@
         "high": 5225.0,
         "low": 4570.0,
         "close": 5150.0,
-        "volume": 4753300
+        "volume": 4862900
       },
       "WarrantMetrics": {
         "intrinsicValue": -12.67,
@@ -8890,7 +8890,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -16.5,
@@ -8931,7 +8931,7 @@
         "high": 2590.0,
         "low": 2500.0,
         "close": 2560.0,
-        "volume": 47617900
+        "volume": 49364600
       },
       "WarrantMetrics": {
         "intrinsicValue": -167.2,
@@ -8972,7 +8972,7 @@
         "high": 535.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 73875600
+        "volume": 78500700
       },
       "WarrantMetrics": {
         "intrinsicValue": -53.33,
@@ -9054,7 +9054,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -227.5,
@@ -9095,7 +9095,7 @@
         "high": 346.0,
         "low": 302.0,
         "close": 326.0,
-        "volume": 111332600
+        "volume": 134928900
       },
       "WarrantMetrics": {
         "intrinsicValue": -25.33,
@@ -9136,7 +9136,7 @@
         "high": 1395.0,
         "low": 1190.0,
         "close": 1190.0,
-        "volume": 124707900
+        "volume": 128500100
       },
       "WarrantMetrics": {
         "intrinsicValue": -158.4,
@@ -9177,7 +9177,7 @@
         "high": 1440.0,
         "low": 1360.0,
         "close": 1360.0,
-        "volume": 30517200
+        "volume": 31938300
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.2,
@@ -9218,7 +9218,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.5,
@@ -9259,7 +9259,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": -145.83,
@@ -9300,7 +9300,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 540.0,
-        "volume": 51493700
+        "volume": 52756900
       },
       "WarrantMetrics": {
         "intrinsicValue": -32.5,
@@ -9341,7 +9341,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -80.67,
@@ -9423,7 +9423,7 @@
         "high": 127.0,
         "low": 119.0,
         "close": 123.0,
-        "volume": 343735400
+        "volume": 349970900
       },
       "WarrantMetrics": {
         "intrinsicValue": -22.5,
@@ -9464,7 +9464,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -143.0,
@@ -9587,7 +9587,7 @@
         "high": 950.0,
         "low": 880.0,
         "close": 885.0,
-        "volume": 62234000
+        "volume": 64668700
       },
       "WarrantMetrics": {
         "intrinsicValue": -95.62,
@@ -9628,7 +9628,7 @@
         "high": 346.0,
         "low": 302.0,
         "close": 326.0,
-        "volume": 111332600
+        "volume": 134928900
       },
       "WarrantMetrics": {
         "intrinsicValue": -32.4,
@@ -9751,7 +9751,7 @@
         "high": 242.0,
         "low": 226.0,
         "close": 230.0,
-        "volume": 78479500
+        "volume": 92435800
       },
       "WarrantMetrics": {
         "intrinsicValue": -56.8,
@@ -9833,7 +9833,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -24.0,
@@ -9874,7 +9874,7 @@
         "high": 1430.0,
         "low": 1260.0,
         "close": 1370.0,
-        "volume": 27381400
+        "volume": 28989200
       },
       "WarrantMetrics": {
         "intrinsicValue": -116.25,
@@ -9915,7 +9915,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -105.0,
@@ -9997,7 +9997,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -36.17,
@@ -10038,7 +10038,7 @@
         "high": 1400.0,
         "low": 1275.0,
         "close": 1320.0,
-        "volume": 8340800
+        "volume": 8533700
       },
       "WarrantMetrics": {
         "intrinsicValue": -76.8,
@@ -10079,7 +10079,7 @@
         "high": 4570.0,
         "low": 3920.0,
         "close": 4250.0,
-        "volume": 10645100
+        "volume": 10928000
       },
       "WarrantMetrics": {
         "intrinsicValue": -91.26,
@@ -10120,7 +10120,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.6,
@@ -10161,7 +10161,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.76,
@@ -10202,7 +10202,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 505.0,
-        "volume": 19263000
+        "volume": 20895500
       },
       "WarrantMetrics": {
         "intrinsicValue": -44.5,
@@ -10243,7 +10243,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -90.5,
@@ -10284,7 +10284,7 @@
         "high": 346.0,
         "low": 302.0,
         "close": 326.0,
-        "volume": 111332600
+        "volume": 134928900
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.33,
@@ -10366,7 +10366,7 @@
         "high": 1940.0,
         "low": 1720.0,
         "close": 1765.0,
-        "volume": 42041200
+        "volume": 43540700
       },
       "WarrantMetrics": {
         "intrinsicValue": 4.79,
@@ -10407,7 +10407,7 @@
         "high": 565.0,
         "low": 525.0,
         "close": 525.0,
-        "volume": 302165200
+        "volume": 309353800
       },
       "WarrantMetrics": {
         "intrinsicValue": 25.0,
@@ -10448,7 +10448,7 @@
         "high": 3210.0,
         "low": 3130.0,
         "close": 3130.0,
-        "volume": 8846700
+        "volume": 9024700
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.14,
@@ -10489,7 +10489,7 @@
         "high": 242.0,
         "low": 226.0,
         "close": 230.0,
-        "volume": 78479500
+        "volume": 92435800
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.67,
@@ -10530,7 +10530,7 @@
         "high": 535.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 73875600
+        "volume": 78500700
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.29,
@@ -10571,7 +10571,7 @@
         "high": 15900.0,
         "low": 14800.0,
         "close": 15300.0,
-        "volume": 3121100
+        "volume": 3152000
       },
       "WarrantMetrics": {
         "intrinsicValue": -13.95,
@@ -10612,7 +10612,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.58,
@@ -10653,7 +10653,7 @@
         "high": 175.0,
         "low": 163.0,
         "close": 164.0,
-        "volume": 95754100
+        "volume": 106534600
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.33,
@@ -10735,7 +10735,7 @@
         "high": 260.0,
         "low": 260.0,
         "close": 260.0,
-        "volume": 150256000
+        "volume": 183356200
       },
       "WarrantMetrics": {
         "intrinsicValue": -6.67,
@@ -10776,7 +10776,7 @@
         "high": 44.0,
         "low": 44.0,
         "close": 44.0,
-        "volume": 84949900
+        "volume": 101240500
       },
       "WarrantMetrics": {
         "intrinsicValue": -13.5,
@@ -10817,7 +10817,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -105.75,
@@ -10858,7 +10858,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -2.0,
@@ -10899,7 +10899,7 @@
         "high": 260.0,
         "low": 260.0,
         "close": 260.0,
-        "volume": 150256000
+        "volume": 183356200
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.0,
@@ -10940,7 +10940,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.25,
@@ -10981,7 +10981,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -111.6,
@@ -11022,7 +11022,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -28.0,
@@ -11063,7 +11063,7 @@
         "high": 3210.0,
         "low": 3130.0,
         "close": 3130.0,
-        "volume": 8846700
+        "volume": 9024700
       },
       "WarrantMetrics": {
         "intrinsicValue": -151.25,
@@ -11104,7 +11104,7 @@
         "high": 620.0,
         "low": 570.0,
         "close": 575.0,
-        "volume": 70028000
+        "volume": 72625100
       },
       "WarrantMetrics": {
         "intrinsicValue": -18.33,
@@ -11145,7 +11145,7 @@
         "high": 15900.0,
         "low": 14800.0,
         "close": 15300.0,
-        "volume": 3121100
+        "volume": 3152000
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.78,
@@ -11186,7 +11186,7 @@
         "high": 346.0,
         "low": 302.0,
         "close": 326.0,
-        "volume": 111332600
+        "volume": 134928900
       },
       "WarrantMetrics": {
         "intrinsicValue": -104.0,
@@ -11227,7 +11227,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -13.33,
@@ -11268,7 +11268,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": 98.57,
@@ -11350,7 +11350,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.67,
@@ -11391,7 +11391,7 @@
         "high": 127.0,
         "low": 119.0,
         "close": 123.0,
-        "volume": 343735400
+        "volume": 349970900
       },
       "WarrantMetrics": {
         "intrinsicValue": -3.5,
@@ -11432,7 +11432,7 @@
         "high": 44.0,
         "low": 44.0,
         "close": 44.0,
-        "volume": 84949900
+        "volume": 101240500
       },
       "WarrantMetrics": {
         "intrinsicValue": -44.0,
@@ -11473,7 +11473,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -136.67,
@@ -11514,7 +11514,7 @@
         "high": 35.0,
         "low": 32.0,
         "close": 32.0,
-        "volume": 258034100
+        "volume": 274333200
       },
       "WarrantMetrics": {
         "intrinsicValue": -70.0,
@@ -11555,7 +11555,7 @@
         "high": 7675.0,
         "low": 6950.0,
         "close": 6950.0,
-        "volume": 17251300
+        "volume": 17965500
       },
       "WarrantMetrics": {
         "intrinsicValue": -68.75,
@@ -11596,7 +11596,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -71.33,
@@ -11637,7 +11637,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -71.5,
@@ -11678,7 +11678,7 @@
         "high": 1390.0,
         "low": 1250.0,
         "close": 1300.0,
-        "volume": 5800700
+        "volume": 6176400
       },
       "WarrantMetrics": {
         "intrinsicValue": -20.0,
@@ -11719,7 +11719,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -53.75,
@@ -11760,7 +11760,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -75.67,
@@ -11801,7 +11801,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -125.0,
@@ -11842,7 +11842,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -93.33,
@@ -11883,7 +11883,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -71.8,
@@ -11924,7 +11924,7 @@
         "high": 720.0,
         "low": 675.0,
         "close": 675.0,
-        "volume": 144024400
+        "volume": 157452400
       },
       "WarrantMetrics": {
         "intrinsicValue": -70.0,
@@ -11965,7 +11965,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.0,
@@ -12047,7 +12047,7 @@
         "high": 282.0,
         "low": 250.0,
         "close": 264.0,
-        "volume": 127660200
+        "volume": 131462300
       },
       "WarrantMetrics": {
         "intrinsicValue": -43.0,
@@ -12088,7 +12088,7 @@
         "high": 1440.0,
         "low": 1360.0,
         "close": 1360.0,
-        "volume": 30517200
+        "volume": 31938300
       },
       "WarrantMetrics": {
         "intrinsicValue": -62.5,
@@ -12129,7 +12129,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -104.4,
@@ -12170,7 +12170,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -131.25,
@@ -12211,7 +12211,7 @@
         "high": 2340.0,
         "low": 2110.0,
         "close": 2110.0,
-        "volume": 17105900
+        "volume": 17832500
       },
       "WarrantMetrics": {
         "intrinsicValue": -81.33,
@@ -12293,7 +12293,7 @@
         "high": 6900.0,
         "low": 5925.0,
         "close": 6625.0,
-        "volume": 29824700
+        "volume": 30553100
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.0,
@@ -12334,7 +12334,7 @@
         "high": 520.0,
         "low": 520.0,
         "close": 520.0,
-        "volume": 28222500
+        "volume": 28841600
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.0,
@@ -12375,7 +12375,7 @@
         "high": 1390.0,
         "low": 1250.0,
         "close": 1300.0,
-        "volume": 5800700
+        "volume": 6176400
       },
       "WarrantMetrics": {
         "intrinsicValue": -37.5,
@@ -12416,7 +12416,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -62.0,
@@ -12457,7 +12457,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -84.33,
@@ -12498,7 +12498,7 @@
         "high": 35.0,
         "low": 32.0,
         "close": 32.0,
-        "volume": 258034100
+        "volume": 274333200
       },
       "WarrantMetrics": {
         "intrinsicValue": -106.0,
@@ -12539,7 +12539,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -67.5,
@@ -12580,7 +12580,7 @@
         "high": 1945.0,
         "low": 1750.0,
         "close": 1765.0,
-        "volume": 22208300
+        "volume": 22922700
       },
       "WarrantMetrics": {
         "intrinsicValue": -49.0,
@@ -12621,7 +12621,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -77.8,
@@ -12662,7 +12662,7 @@
         "high": 725.0,
         "low": 685.0,
         "close": 685.0,
-        "volume": 22105700
+        "volume": 23736000
       },
       "WarrantMetrics": {
         "intrinsicValue": -89.0,
@@ -12703,7 +12703,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -120.5,
@@ -12744,7 +12744,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -104.5,
@@ -12785,7 +12785,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -137.0,
@@ -12826,7 +12826,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": -166.67,
@@ -12867,7 +12867,7 @@
         "high": 1940.0,
         "low": 1720.0,
         "close": 1765.0,
-        "volume": 42041200
+        "volume": 43540700
       },
       "WarrantMetrics": {
         "intrinsicValue": -22.5,
@@ -12908,7 +12908,7 @@
         "high": 426.0,
         "low": 382.0,
         "close": 388.0,
-        "volume": 209060900
+        "volume": 219401000
       },
       "WarrantMetrics": {
         "intrinsicValue": -54.8,
@@ -13031,7 +13031,7 @@
         "high": 1400.0,
         "low": 1275.0,
         "close": 1320.0,
-        "volume": 8340800
+        "volume": 8533700
       },
       "WarrantMetrics": {
         "intrinsicValue": -106.0,
@@ -13154,7 +13154,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -110.0,
@@ -13236,7 +13236,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -113.75,
@@ -13277,7 +13277,7 @@
         "high": 350.0,
         "low": 328.0,
         "close": 334.0,
-        "volume": 172946700
+        "volume": 176589400
       },
       "WarrantMetrics": {
         "intrinsicValue": -75.17,
@@ -13318,7 +13318,7 @@
         "high": 7675.0,
         "low": 6950.0,
         "close": 6950.0,
-        "volume": 17251300
+        "volume": 17965500
       },
       "WarrantMetrics": {
         "intrinsicValue": -101.25,
@@ -13359,7 +13359,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -130.4,
@@ -13400,7 +13400,7 @@
         "high": 350.0,
         "low": 328.0,
         "close": 334.0,
-        "volume": 172946700
+        "volume": 176589400
       },
       "WarrantMetrics": {
         "intrinsicValue": -93.5,
@@ -13482,7 +13482,7 @@
         "high": 159.0,
         "low": 148.0,
         "close": 148.0,
-        "volume": 77615400
+        "volume": 83941700
       },
       "WarrantMetrics": {
         "intrinsicValue": -72.0,
@@ -13523,7 +13523,7 @@
         "high": 620.0,
         "low": 570.0,
         "close": 575.0,
-        "volume": 70028000
+        "volume": 72625100
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.0,
@@ -13564,7 +13564,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -101.25,
@@ -13605,7 +13605,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -93.33,
@@ -13646,7 +13646,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -84.0,
@@ -13687,7 +13687,7 @@
         "high": 27.0,
         "low": 23.0,
         "close": 25.0,
-        "volume": 4003266436
+        "volume": 46128857900
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.0,
@@ -13728,7 +13728,7 @@
         "high": 565.0,
         "low": 525.0,
         "close": 525.0,
-        "volume": 302165200
+        "volume": 309353800
       },
       "WarrantMetrics": {
         "intrinsicValue": 22.0,
@@ -13769,7 +13769,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.0,
@@ -13810,7 +13810,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -47.08,
@@ -13851,7 +13851,7 @@
         "high": 2960.0,
         "low": 2730.0,
         "close": 2800.0,
-        "volume": 138060600
+        "volume": 141705700
       },
       "WarrantMetrics": {
         "intrinsicValue": -35.0,
@@ -13892,7 +13892,7 @@
         "high": 5225.0,
         "low": 4570.0,
         "close": 5150.0,
-        "volume": 4753300
+        "volume": 4862900
       },
       "WarrantMetrics": {
         "intrinsicValue": -7.67,
@@ -13933,7 +13933,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.0,
@@ -14015,7 +14015,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -105.0,
@@ -14056,7 +14056,7 @@
         "high": 620.0,
         "low": 570.0,
         "close": 575.0,
-        "volume": 70028000
+        "volume": 72625100
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.0,
@@ -14138,7 +14138,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -163.67,
@@ -14343,7 +14343,7 @@
         "high": 1815.0,
         "low": 1815.0,
         "close": 1815.0,
-        "volume": 11600100
+        "volume": 12562600
       },
       "WarrantMetrics": {
         "intrinsicValue": -123.75,
@@ -14384,7 +14384,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -65.62,
@@ -14425,7 +14425,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -179.5,
@@ -14548,7 +14548,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -184.0,
@@ -14589,7 +14589,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -258.0,
@@ -14630,7 +14630,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -148.0,
@@ -14671,7 +14671,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -165.0,
@@ -14712,7 +14712,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -154.29,
@@ -14753,7 +14753,7 @@
         "high": 725.0,
         "low": 685.0,
         "close": 685.0,
-        "volume": 22105700
+        "volume": 23736000
       },
       "WarrantMetrics": {
         "intrinsicValue": -138.33,
@@ -14794,7 +14794,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -108.75,
@@ -14835,7 +14835,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -116.0,
@@ -14876,7 +14876,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -461.0,
@@ -14958,7 +14958,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -134.0,
@@ -14999,7 +14999,7 @@
         "high": 260.0,
         "low": 260.0,
         "close": 260.0,
-        "volume": 150256000
+        "volume": 183356200
       },
       "WarrantMetrics": {
         "intrinsicValue": -48.25,
@@ -15040,7 +15040,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -66.42,
@@ -15081,7 +15081,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -43.25,
@@ -15122,7 +15122,7 @@
         "high": 725.0,
         "low": 685.0,
         "close": 685.0,
-        "volume": 22105700
+        "volume": 23736000
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.62,
@@ -15163,7 +15163,7 @@
         "high": 15900.0,
         "low": 14800.0,
         "close": 15300.0,
-        "volume": 3121100
+        "volume": 3152000
       },
       "WarrantMetrics": {
         "intrinsicValue": -124.68,
@@ -15204,7 +15204,7 @@
         "high": 3210.0,
         "low": 3130.0,
         "close": 3130.0,
-        "volume": 8846700
+        "volume": 9024700
       },
       "WarrantMetrics": {
         "intrinsicValue": -74.5,
@@ -15245,7 +15245,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -32.21,
@@ -15286,7 +15286,7 @@
         "high": 520.0,
         "low": 520.0,
         "close": 520.0,
-        "volume": 28222500
+        "volume": 28841600
       },
       "WarrantMetrics": {
         "intrinsicValue": -25.0,
@@ -15327,7 +15327,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -67.58,
@@ -15450,7 +15450,7 @@
         "high": 950.0,
         "low": 880.0,
         "close": 885.0,
-        "volume": 62234000
+        "volume": 64668700
       },
       "WarrantMetrics": {
         "intrinsicValue": -108.4,
@@ -15491,7 +15491,7 @@
         "high": 1940.0,
         "low": 1720.0,
         "close": 1765.0,
-        "volume": 42041200
+        "volume": 43540700
       },
       "WarrantMetrics": {
         "intrinsicValue": -10.6,
@@ -15532,7 +15532,7 @@
         "high": 23700.0,
         "low": 21475.0,
         "close": 22625.0,
-        "volume": 10619100
+        "volume": 10997200
       },
       "WarrantMetrics": {
         "intrinsicValue": -88.23,
@@ -15573,7 +15573,7 @@
         "high": 175.0,
         "low": 163.0,
         "close": 164.0,
-        "volume": 95754100
+        "volume": 106534600
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.71,
@@ -15696,7 +15696,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -54.58,
@@ -15737,7 +15737,7 @@
         "high": 44.0,
         "low": 44.0,
         "close": 44.0,
-        "volume": 84949900
+        "volume": 101240500
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.67,
@@ -15778,7 +15778,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -32.6,
@@ -15819,7 +15819,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.98,
@@ -15942,7 +15942,7 @@
         "high": 6500.0,
         "low": 5925.0,
         "close": 6300.0,
-        "volume": 18581700
+        "volume": 18967600
       },
       "WarrantMetrics": {
         "intrinsicValue": -28.27,
@@ -15983,7 +15983,7 @@
         "high": 565.0,
         "low": 525.0,
         "close": 525.0,
-        "volume": 302165200
+        "volume": 309353800
       },
       "WarrantMetrics": {
         "intrinsicValue": 24.15,
@@ -16024,7 +16024,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.73,
@@ -16106,7 +16106,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.25,
@@ -16147,7 +16147,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.6,
@@ -16188,7 +16188,7 @@
         "high": 1815.0,
         "low": 1815.0,
         "close": 1815.0,
-        "volume": 11600100
+        "volume": 12562600
       },
       "WarrantMetrics": {
         "intrinsicValue": -89.13,
@@ -16229,7 +16229,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.47,
@@ -16311,7 +16311,7 @@
         "high": 242.0,
         "low": 226.0,
         "close": 230.0,
-        "volume": 78479500
+        "volume": 92435800
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.25,
@@ -16352,7 +16352,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -10.4,
@@ -16393,7 +16393,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -117.75,
@@ -16434,7 +16434,7 @@
         "high": 350.0,
         "low": 328.0,
         "close": 334.0,
-        "volume": 172946700
+        "volume": 176589400
       },
       "WarrantMetrics": {
         "intrinsicValue": -35.4,
@@ -16475,7 +16475,7 @@
         "high": 35.0,
         "low": 32.0,
         "close": 32.0,
-        "volume": 258034100
+        "volume": 274333200
       },
       "WarrantMetrics": {
         "intrinsicValue": -62.5,
@@ -16516,7 +16516,7 @@
         "high": 1440.0,
         "low": 1360.0,
         "close": 1360.0,
-        "volume": 30517200
+        "volume": 31938300
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.33,
@@ -16557,7 +16557,7 @@
         "high": 282.0,
         "low": 250.0,
         "close": 264.0,
-        "volume": 127660200
+        "volume": 131462300
       },
       "WarrantMetrics": {
         "intrinsicValue": -16.33,
@@ -16598,7 +16598,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -126.5,
@@ -16639,7 +16639,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.6,
@@ -16680,7 +16680,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.15,
@@ -16721,7 +16721,7 @@
         "high": 159.0,
         "low": 148.0,
         "close": 148.0,
-        "volume": 77615400
+        "volume": 83941700
       },
       "WarrantMetrics": {
         "intrinsicValue": -56.0,
@@ -16762,7 +16762,7 @@
         "high": 2590.0,
         "low": 2500.0,
         "close": 2560.0,
-        "volume": 47617900
+        "volume": 49364600
       },
       "WarrantMetrics": {
         "intrinsicValue": -130.0,
@@ -16803,7 +16803,7 @@
         "high": 5225.0,
         "low": 4570.0,
         "close": 5150.0,
-        "volume": 4753300
+        "volume": 4862900
       },
       "WarrantMetrics": {
         "intrinsicValue": 19.57,
@@ -16844,7 +16844,7 @@
         "high": 720.0,
         "low": 675.0,
         "close": 675.0,
-        "volume": 144024400
+        "volume": 157452400
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.25,
@@ -16885,7 +16885,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -113.33,
@@ -16926,7 +16926,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -101.43,
@@ -16967,7 +16967,7 @@
         "high": 426.0,
         "low": 382.0,
         "close": 388.0,
-        "volume": 209060900
+        "volume": 219401000
       },
       "WarrantMetrics": {
         "intrinsicValue": -16.0,
@@ -17008,7 +17008,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -399.09,
@@ -17049,7 +17049,7 @@
         "high": 1440.0,
         "low": 1360.0,
         "close": 1360.0,
-        "volume": 30517200
+        "volume": 31938300
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.0,
@@ -17090,7 +17090,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -127.0,
@@ -17131,7 +17131,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -192.86,
@@ -17172,7 +17172,7 @@
         "high": 2960.0,
         "low": 2730.0,
         "close": 2800.0,
-        "volume": 138060600
+        "volume": 141705700
       },
       "WarrantMetrics": {
         "intrinsicValue": 0.0,
@@ -17254,7 +17254,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.5,
@@ -17295,7 +17295,7 @@
         "high": 27.0,
         "low": 23.0,
         "close": 25.0,
-        "volume": 4003266436
+        "volume": 46128857900
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.67,
@@ -17336,7 +17336,7 @@
         "high": 282.0,
         "low": 250.0,
         "close": 264.0,
-        "volume": 127660200
+        "volume": 131462300
       },
       "WarrantMetrics": {
         "intrinsicValue": -8.0,
@@ -17377,7 +17377,7 @@
         "high": 2590.0,
         "low": 2500.0,
         "close": 2560.0,
-        "volume": 47617900
+        "volume": 49364600
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.5,
@@ -17418,7 +17418,7 @@
         "high": 260.0,
         "low": 260.0,
         "close": 260.0,
-        "volume": 150256000
+        "volume": 183356200
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.0,
@@ -17459,7 +17459,7 @@
         "high": 350.0,
         "low": 328.0,
         "close": 334.0,
-        "volume": 172946700
+        "volume": 176589400
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.86,
@@ -17500,7 +17500,7 @@
         "high": 1390.0,
         "low": 1250.0,
         "close": 1300.0,
-        "volume": 5800700
+        "volume": 6176400
       },
       "WarrantMetrics": {
         "intrinsicValue": -18.18,
@@ -17541,7 +17541,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -21.0,
@@ -17582,7 +17582,7 @@
         "high": 1815.0,
         "low": 1815.0,
         "close": 1815.0,
-        "volume": 11600100
+        "volume": 12562600
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.25,
@@ -17623,7 +17623,7 @@
         "high": 35.0,
         "low": 32.0,
         "close": 32.0,
-        "volume": 258034100
+        "volume": 274333200
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.33,
@@ -17664,7 +17664,7 @@
         "high": 5225.0,
         "low": 4570.0,
         "close": 5150.0,
-        "volume": 4753300
+        "volume": 4862900
       },
       "WarrantMetrics": {
         "intrinsicValue": 1.43,
@@ -17705,7 +17705,7 @@
         "high": 159.0,
         "low": 148.0,
         "close": 148.0,
-        "volume": 77615400
+        "volume": 83941700
       },
       "WarrantMetrics": {
         "intrinsicValue": -37.33,
@@ -17746,7 +17746,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -36.67,
@@ -17787,7 +17787,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -76.0,
@@ -17910,7 +17910,7 @@
         "high": 1985.0,
         "low": 1900.0,
         "close": 1900.0,
-        "volume": 963614200
+        "volume": 993589600
       },
       "WarrantMetrics": {
         "intrinsicValue": -78.57,
@@ -17951,7 +17951,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -18.0,
@@ -17992,7 +17992,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.83,
@@ -18033,7 +18033,7 @@
         "high": 1940.0,
         "low": 1720.0,
         "close": 1765.0,
-        "volume": 42041200
+        "volume": 43540700
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.0,
@@ -18074,7 +18074,7 @@
         "high": 1100.0,
         "low": 1100.0,
         "close": 1100.0,
-        "volume": 13554400
+        "volume": 20388600
       },
       "WarrantMetrics": {
         "intrinsicValue": -167.0,
@@ -18115,7 +18115,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -22.4,
@@ -18156,7 +18156,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -27.43,
@@ -18197,7 +18197,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -97.78,
@@ -18238,7 +18238,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -66.92,
@@ -18279,7 +18279,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.9,
@@ -18566,7 +18566,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.33,
@@ -18607,7 +18607,7 @@
         "high": 7675.0,
         "low": 6950.0,
         "close": 6950.0,
-        "volume": 17251300
+        "volume": 17965500
       },
       "WarrantMetrics": {
         "intrinsicValue": -111.25,
@@ -18648,7 +18648,7 @@
         "high": 350.0,
         "low": 328.0,
         "close": 334.0,
-        "volume": 172946700
+        "volume": 176589400
       },
       "WarrantMetrics": {
         "intrinsicValue": -31.6,
@@ -18689,7 +18689,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -79.17,
@@ -18730,7 +18730,7 @@
         "high": 1400.0,
         "low": 1275.0,
         "close": 1320.0,
-        "volume": 8340800
+        "volume": 8533700
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.25,
@@ -18771,7 +18771,7 @@
         "high": 1945.0,
         "low": 1750.0,
         "close": 1765.0,
-        "volume": 22208300
+        "volume": 22922700
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.44,
@@ -18812,7 +18812,7 @@
         "high": 1395.0,
         "low": 1190.0,
         "close": 1190.0,
-        "volume": 124707900
+        "volume": 128500100
       },
       "WarrantMetrics": {
         "intrinsicValue": -160.0,
@@ -18853,7 +18853,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -65.71,
@@ -19099,7 +19099,7 @@
         "high": 3910.0,
         "low": 3390.0,
         "close": 3390.0,
-        "volume": 785788400
+        "volume": 839063400
       },
       "WarrantMetrics": {
         "intrinsicValue": -85.81,
@@ -19140,7 +19140,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -96.25,
@@ -19222,7 +19222,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.0,
@@ -19263,7 +19263,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -94.0,
@@ -19304,7 +19304,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -107.5,
@@ -19345,7 +19345,7 @@
         "high": 3210.0,
         "low": 3130.0,
         "close": 3130.0,
-        "volume": 8846700
+        "volume": 9024700
       },
       "WarrantMetrics": {
         "intrinsicValue": -53.5,
@@ -19386,7 +19386,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.0,
@@ -19427,7 +19427,7 @@
         "high": 260.0,
         "low": 260.0,
         "close": 260.0,
-        "volume": 150256000
+        "volume": 183356200
       },
       "WarrantMetrics": {
         "intrinsicValue": -36.4,
@@ -19468,7 +19468,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.75,
@@ -19509,7 +19509,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -39.4,
@@ -19550,7 +19550,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.43,
@@ -19632,7 +19632,7 @@
         "high": 890.0,
         "low": 835.0,
         "close": 880.0,
-        "volume": 62947200
+        "volume": 65262500
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.33,
@@ -19673,7 +19673,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.67,
@@ -19714,7 +19714,7 @@
         "high": 720.0,
         "low": 675.0,
         "close": 675.0,
-        "volume": 144024400
+        "volume": 157452400
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.43,
@@ -19755,7 +19755,7 @@
         "high": 15900.0,
         "low": 14800.0,
         "close": 15300.0,
-        "volume": 3121100
+        "volume": 3152000
       },
       "WarrantMetrics": {
         "intrinsicValue": -64.17,
@@ -19796,7 +19796,7 @@
         "high": 7675.0,
         "low": 6950.0,
         "close": 6950.0,
-        "volume": 17251300
+        "volume": 17965500
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.67,
@@ -19837,7 +19837,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -86.33,
@@ -19878,7 +19878,7 @@
         "high": 426.0,
         "low": 382.0,
         "close": 388.0,
-        "volume": 209060900
+        "volume": 219401000
       },
       "WarrantMetrics": {
         "intrinsicValue": -37.33,
@@ -19960,7 +19960,7 @@
         "high": 520.0,
         "low": 520.0,
         "close": 520.0,
-        "volume": 28222500
+        "volume": 28841600
       },
       "WarrantMetrics": {
         "intrinsicValue": -25.0,
@@ -20001,7 +20001,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -27.33,
@@ -20042,7 +20042,7 @@
         "high": 4560.0,
         "low": 4250.0,
         "close": 4250.0,
-        "volume": 11734000
+        "volume": 11999900
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.71,
@@ -20083,7 +20083,7 @@
         "high": 2340.0,
         "low": 2110.0,
         "close": 2110.0,
-        "volume": 17105900
+        "volume": 17832500
       },
       "WarrantMetrics": {
         "intrinsicValue": -54.5,
@@ -20124,7 +20124,7 @@
         "high": 3210.0,
         "low": 3130.0,
         "close": 3130.0,
-        "volume": 8846700
+        "volume": 9024700
       },
       "WarrantMetrics": {
         "intrinsicValue": -52.33,
@@ -20165,7 +20165,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -60.42,
@@ -20206,7 +20206,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -73.42,
@@ -20247,7 +20247,7 @@
         "high": 1440.0,
         "low": 1360.0,
         "close": 1360.0,
-        "volume": 30517200
+        "volume": 31938300
       },
       "WarrantMetrics": {
         "intrinsicValue": -44.0,
@@ -20329,7 +20329,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.86,
@@ -20411,7 +20411,7 @@
         "high": 4570.0,
         "low": 3920.0,
         "close": 4250.0,
-        "volume": 10645100
+        "volume": 10928000
       },
       "WarrantMetrics": {
         "intrinsicValue": -33.93,
@@ -20452,7 +20452,7 @@
         "high": 44.0,
         "low": 44.0,
         "close": 44.0,
-        "volume": 84949900
+        "volume": 101240500
       },
       "WarrantMetrics": {
         "intrinsicValue": -20.5,
@@ -20493,7 +20493,7 @@
         "high": 3000.0,
         "low": 2960.0,
         "close": 2960.0,
-        "volume": 7958900
+        "volume": 8168700
       },
       "WarrantMetrics": {
         "intrinsicValue": -98.8,
@@ -20575,7 +20575,7 @@
         "high": 1205.0,
         "low": 1205.0,
         "close": 1205.0,
-        "volume": 79092200
+        "volume": 89153400
       },
       "WarrantMetrics": {
         "intrinsicValue": -62.38,
@@ -20657,7 +20657,7 @@
         "high": 725.0,
         "low": 685.0,
         "close": 685.0,
-        "volume": 22105700
+        "volume": 23736000
       },
       "WarrantMetrics": {
         "intrinsicValue": -28.64,
@@ -20739,7 +20739,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -22.6,
@@ -20780,7 +20780,7 @@
         "high": 565.0,
         "low": 525.0,
         "close": 525.0,
-        "volume": 302165200
+        "volume": 309353800
       },
       "WarrantMetrics": {
         "intrinsicValue": -12.5,
@@ -20821,7 +20821,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -48.0,
@@ -20862,7 +20862,7 @@
         "high": 24300.0,
         "low": 21525.0,
         "close": 23000.0,
-        "volume": 3636700
+        "volume": 3730800
       },
       "WarrantMetrics": {
         "intrinsicValue": -83.33,
@@ -20903,7 +20903,7 @@
         "high": 2340.0,
         "low": 2110.0,
         "close": 2110.0,
-        "volume": 17105900
+        "volume": 17832500
       },
       "WarrantMetrics": {
         "intrinsicValue": -51.6,
@@ -20944,7 +20944,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -24.4,
@@ -20985,7 +20985,7 @@
         "high": 3500.0,
         "low": 3450.0,
         "close": 3450.0,
-        "volume": 37832800
+        "volume": 38681500
       },
       "WarrantMetrics": {
         "intrinsicValue": -227.5,
@@ -21026,7 +21026,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -200.0,
@@ -21067,7 +21067,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -105.0,
@@ -21108,7 +21108,7 @@
         "high": 540.0,
         "low": 540.0,
         "close": 540.0,
-        "volume": 69411800
+        "volume": 86042800
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.6,
@@ -21149,7 +21149,7 @@
         "high": 175.0,
         "low": 163.0,
         "close": 164.0,
-        "volume": 95754100
+        "volume": 106534600
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.5,
@@ -21190,7 +21190,7 @@
         "high": 950.0,
         "low": 880.0,
         "close": 885.0,
-        "volume": 62234000
+        "volume": 64668700
       },
       "WarrantMetrics": {
         "intrinsicValue": -71.5,
@@ -21272,7 +21272,7 @@
         "high": 725.0,
         "low": 685.0,
         "close": 685.0,
-        "volume": 22105700
+        "volume": 23736000
       },
       "WarrantMetrics": {
         "intrinsicValue": -46.5,
@@ -21313,7 +21313,7 @@
         "high": 6900.0,
         "low": 5925.0,
         "close": 6625.0,
-        "volume": 29824700
+        "volume": 30553100
       },
       "WarrantMetrics": {
         "intrinsicValue": -62.14,
@@ -21395,7 +21395,7 @@
         "high": 2340.0,
         "low": 2110.0,
         "close": 2110.0,
-        "volume": 17105900
+        "volume": 17832500
       },
       "WarrantMetrics": {
         "intrinsicValue": -74.5,
@@ -21477,7 +21477,7 @@
         "high": 1360.0,
         "low": 1260.0,
         "close": 1280.0,
-        "volume": 27718700
+        "volume": 28906900
       },
       "WarrantMetrics": {
         "intrinsicValue": -24.67,
@@ -21518,7 +21518,7 @@
         "high": 1400.0,
         "low": 1275.0,
         "close": 1320.0,
-        "volume": 8340800
+        "volume": 8533700
       },
       "WarrantMetrics": {
         "intrinsicValue": -19.0,
@@ -21559,7 +21559,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.83,
@@ -21600,7 +21600,7 @@
         "high": 134.0,
         "low": 134.0,
         "close": 134.0,
-        "volume": 909928700
+        "volume": 1075718600
       },
       "WarrantMetrics": {
         "intrinsicValue": -45.33,
@@ -21641,7 +21641,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.75,
@@ -21682,7 +21682,7 @@
         "high": 1430.0,
         "low": 1260.0,
         "close": 1370.0,
-        "volume": 27381400
+        "volume": 28989200
       },
       "WarrantMetrics": {
         "intrinsicValue": -25.33,
@@ -21723,7 +21723,7 @@
         "high": 765.0,
         "low": 765.0,
         "close": 765.0,
-        "volume": 7695600
+        "volume": 9261900
       },
       "WarrantMetrics": {
         "intrinsicValue": -91.88,
@@ -21764,7 +21764,7 @@
         "high": 1770.0,
         "low": 1755.0,
         "close": 1755.0,
-        "volume": 93210800
+        "volume": 94265800
       },
       "WarrantMetrics": {
         "intrinsicValue": -83.0,
@@ -21805,7 +21805,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -115.56,
@@ -21887,7 +21887,7 @@
         "high": 1395.0,
         "low": 1190.0,
         "close": 1190.0,
-        "volume": 124707900
+        "volume": 128500100
       },
       "WarrantMetrics": {
         "intrinsicValue": -56.0,
@@ -21928,7 +21928,7 @@
         "high": 23700.0,
         "low": 21475.0,
         "close": 22625.0,
-        "volume": 10619100
+        "volume": 10997200
       },
       "WarrantMetrics": {
         "intrinsicValue": -122.92,
@@ -21969,7 +21969,7 @@
         "high": 490.0,
         "low": 490.0,
         "close": 490.0,
-        "volume": 22779700
+        "volume": 25592500
       },
       "WarrantMetrics": {
         "intrinsicValue": -50.83,
@@ -22010,7 +22010,7 @@
         "high": 2890.0,
         "low": 2640.0,
         "close": 2640.0,
-        "volume": 1193916400
+        "volume": 1254239900
       },
       "WarrantMetrics": {
         "intrinsicValue": -91.76,
@@ -22051,7 +22051,7 @@
         "high": 2060.0,
         "low": 2060.0,
         "close": 2060.0,
-        "volume": 9260000
+        "volume": 10148600
       },
       "WarrantMetrics": {
         "intrinsicValue": -72.0,
@@ -22133,7 +22133,7 @@
         "high": 765.0,
         "low": 765.0,
         "close": 765.0,
-        "volume": 7695600
+        "volume": 9261900
       },
       "WarrantMetrics": {
         "intrinsicValue": -41.5,
@@ -22174,7 +22174,7 @@
         "high": 2590.0,
         "low": 2500.0,
         "close": 2560.0,
-        "volume": 47617900
+        "volume": 49364600
       },
       "WarrantMetrics": {
         "intrinsicValue": -84.5,
@@ -22215,7 +22215,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 540.0,
-        "volume": 51493700
+        "volume": 52756900
       },
       "WarrantMetrics": {
         "intrinsicValue": -58.33,
@@ -22297,7 +22297,7 @@
         "high": 44.0,
         "low": 44.0,
         "close": 44.0,
-        "volume": 84949900
+        "volume": 101240500
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.0,
@@ -22338,7 +22338,7 @@
         "high": 468.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 113891800
+        "volume": 123210600
       },
       "WarrantMetrics": {
         "intrinsicValue": -49.33,
@@ -22379,7 +22379,7 @@
         "high": 1360.0,
         "low": 1260.0,
         "close": 1280.0,
-        "volume": 27718700
+        "volume": 28906900
       },
       "WarrantMetrics": {
         "intrinsicValue": -93.0,
@@ -22420,7 +22420,7 @@
         "high": 101.0,
         "low": 90.0,
         "close": 98.0,
-        "volume": 281284900
+        "volume": 304128600
       },
       "WarrantMetrics": {
         "intrinsicValue": -23.0,
@@ -22461,7 +22461,7 @@
         "high": 374.0,
         "low": 374.0,
         "close": 374.0,
-        "volume": 38005800
+        "volume": 42569500
       },
       "WarrantMetrics": {
         "intrinsicValue": -54.33,
@@ -22502,7 +22502,7 @@
         "high": 3340.0,
         "low": 3340.0,
         "close": 3340.0,
-        "volume": 24196600
+        "volume": 25530400
       },
       "WarrantMetrics": {
         "intrinsicValue": -123.67,
@@ -22543,7 +22543,7 @@
         "high": 496.0,
         "low": 476.0,
         "close": 476.0,
-        "volume": 218867700
+        "volume": 234216200
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.25,
@@ -22584,7 +22584,7 @@
         "high": 560.0,
         "low": 505.0,
         "close": 505.0,
-        "volume": 19263000
+        "volume": 20895500
       },
       "WarrantMetrics": {
         "intrinsicValue": -29.55,
@@ -22625,7 +22625,7 @@
         "high": 127.0,
         "low": 119.0,
         "close": 123.0,
-        "volume": 343735400
+        "volume": 349970900
       },
       "WarrantMetrics": {
         "intrinsicValue": -59.0,
@@ -22666,7 +22666,7 @@
         "high": 35.0,
         "low": 32.0,
         "close": 32.0,
-        "volume": 258034100
+        "volume": 274333200
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.0,
@@ -22707,7 +22707,7 @@
         "high": 520.0,
         "low": 520.0,
         "close": 520.0,
-        "volume": 28222500
+        "volume": 28841600
       },
       "WarrantMetrics": {
         "intrinsicValue": -55.71,
@@ -22748,7 +22748,7 @@
         "high": 2430.0,
         "low": 2430.0,
         "close": 2430.0,
-        "volume": 25092800
+        "volume": 27756400
       },
       "WarrantMetrics": {
         "intrinsicValue": -84.0,
@@ -22789,7 +22789,7 @@
         "high": 1590.0,
         "low": 1475.0,
         "close": 1475.0,
-        "volume": 4595000
+        "volume": 4782700
       },
       "WarrantMetrics": {
         "intrinsicValue": -68.33,
@@ -22830,7 +22830,7 @@
         "high": 795.0,
         "low": 690.0,
         "close": 690.0,
-        "volume": 201585100
+        "volume": 209024600
       },
       "WarrantMetrics": {
         "intrinsicValue": -60.0,
@@ -22871,7 +22871,7 @@
         "high": 260.0,
         "low": 260.0,
         "close": 260.0,
-        "volume": 150256000
+        "volume": 183356200
       },
       "WarrantMetrics": {
         "intrinsicValue": -22.92,
@@ -22912,7 +22912,7 @@
         "high": 620.0,
         "low": 570.0,
         "close": 575.0,
-        "volume": 70028000
+        "volume": 72625100
       },
       "WarrantMetrics": {
         "intrinsicValue": -38.33,
@@ -22953,7 +22953,7 @@
         "high": 880.0,
         "low": 790.0,
         "close": 880.0,
-        "volume": 331755500
+        "volume": 333250300
       },
       "WarrantMetrics": {
         "intrinsicValue": -89.23,
@@ -22994,7 +22994,7 @@
         "high": 1385.0,
         "low": 1290.0,
         "close": 1290.0,
-        "volume": 102810300
+        "volume": 108487700
       },
       "WarrantMetrics": {
         "intrinsicValue": -80.0,
@@ -23035,7 +23035,7 @@
         "high": 242.0,
         "low": 226.0,
         "close": 230.0,
-        "volume": 78479500
+        "volume": 92435800
       },
       "WarrantMetrics": {
         "intrinsicValue": -36.0,
@@ -23076,7 +23076,7 @@
         "high": 23700.0,
         "low": 21475.0,
         "close": 22625.0,
-        "volume": 10619100
+        "volume": 10997200
       },
       "WarrantMetrics": {
         "intrinsicValue": -285.42,
@@ -23117,7 +23117,7 @@
         "high": 1540.0,
         "low": 1355.0,
         "close": 1390.0,
-        "volume": 42524300
+        "volume": 43653600
       },
       "WarrantMetrics": {
         "intrinsicValue": -72.5,
@@ -23322,7 +23322,7 @@
         "high": 1690.0,
         "low": 1615.0,
         "close": 1615.0,
-        "volume": 33710000
+        "volume": 34345500
       },
       "WarrantMetrics": {
         "intrinsicValue": -94.25,
@@ -23363,7 +23363,7 @@
         "high": 535.0,
         "low": 468.0,
         "close": 468.0,
-        "volume": 73875600
+        "volume": 78500700
       },
       "WarrantMetrics": {
         "intrinsicValue": -49.0,
@@ -23404,7 +23404,7 @@
         "high": 1220.0,
         "low": 1210.0,
         "close": 1210.0,
-        "volume": 202008600
+        "volume": 206590200
       },
       "WarrantMetrics": {
         "intrinsicValue": -72.67,
