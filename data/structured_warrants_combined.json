@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20 10:14:44",
+  "generatedAt": "2026-10-20 16:31:41",
   "warrantFilteredDate": "2026-09-22",
-  "ohlcFetchedAt": "2026-10-20 10:14:44",
+  "ohlcFetchedAt": "2026-10-20 16:31:41",
   "pricesFetchedAt": "2026-09-21T17:59:13.561517",
   "totalWarrants": 571,
   "withOHLC": 571,
@@ -523,7 +523,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -1179,7 +1179,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -1712,7 +1712,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -1999,7 +1999,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -2368,7 +2368,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -2778,7 +2778,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -3065,7 +3065,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -4090,7 +4090,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -6673,7 +6673,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -7206,7 +7206,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -7534,7 +7534,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -8723,7 +8723,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -9215,7 +9215,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -11839,7 +11839,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -12741,7 +12741,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -14381,7 +14381,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -14545,7 +14545,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -14709,7 +14709,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -15037,7 +15037,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -16677,7 +16677,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -18071,7 +18071,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 955.0,
-        "high": 1270.0,
+        "high": 1275.0,
         "low": 955.0,
         "close": 1225.0,
         "volume": 67234800
@@ -18194,7 +18194,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
@@ -20162,7 +20162,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -21638,7 +21638,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -22786,7 +22786,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 1280.0,
-        "high": 1365.0,
+        "high": 1370.0,
         "low": 1280.0,
         "close": 1280.0,
         "volume": 21909300
@@ -22950,7 +22950,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-20",
         "open": 825.0,
-        "high": 890.0,
+        "high": 885.0,
         "low": 800.0,
         "close": 865.0,
         "volume": 206547400
