@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23 16:40:18",
+  "fetchedAt": "2026-10-24 09:40:45",
   "totalTickers": 87,
   "successCount": 87,
   "failCount": 0,
@@ -422,7 +422,7 @@
       "high": 26.0,
       "low": 24.0,
       "close": 25.0,
-      "volume": 949242712
+      "volume": 13834144600
     },
     "HEAL": {
       "ticker": "HEAL",
@@ -529,7 +529,7 @@
       "yahooTicker": "ITMG.JK",
       "date": "2026-10-23",
       "open": 25325.0,
-      "high": 25900.0,
+      "high": 26000.0,
       "low": 25175.0,
       "close": 25500.0,
       "volume": 1977800

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23 16:40:18",
+  "generatedAt": "2026-10-24 09:40:45",
   "warrantFilteredDate": "2026-09-22",
-  "ohlcFetchedAt": "2026-10-23 16:40:18",
+  "ohlcFetchedAt": "2026-10-24 09:40:45",
   "pricesFetchedAt": "2026-09-21T17:59:13.561517",
   "totalWarrants": 571,
   "withOHLC": 571,
@@ -646,7 +646,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-23",
         "open": 25325.0,
-        "high": 25900.0,
+        "high": 26000.0,
         "low": 25175.0,
         "close": 25500.0,
         "volume": 1977800
@@ -4872,7 +4872,7 @@
         "high": 26.0,
         "low": 24.0,
         "close": 25.0,
-        "volume": 949242712
+        "volume": 13834144600
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.0,
@@ -5320,7 +5320,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-23",
         "open": 25325.0,
-        "high": 25900.0,
+        "high": 26000.0,
         "low": 25175.0,
         "close": 25500.0,
         "volume": 1977800
@@ -6266,7 +6266,7 @@
         "high": 26.0,
         "low": 24.0,
         "close": 25.0,
-        "volume": 949242712
+        "volume": 13834144600
       },
       "WarrantMetrics": {
         "intrinsicValue": -30.0,
@@ -6427,7 +6427,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-23",
         "open": 25325.0,
-        "high": 25900.0,
+        "high": 26000.0,
         "low": 25175.0,
         "close": 25500.0,
         "volume": 1977800
@@ -7329,7 +7329,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-23",
         "open": 25325.0,
-        "high": 25900.0,
+        "high": 26000.0,
         "low": 25175.0,
         "close": 25500.0,
         "volume": 1977800
@@ -7862,7 +7862,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-23",
         "open": 25325.0,
-        "high": 25900.0,
+        "high": 26000.0,
         "low": 25175.0,
         "close": 25500.0,
         "volume": 1977800
@@ -13687,7 +13687,7 @@
         "high": 26.0,
         "low": 24.0,
         "close": 25.0,
-        "volume": 949242712
+        "volume": 13834144600
       },
       "WarrantMetrics": {
         "intrinsicValue": -40.0,
@@ -17295,7 +17295,7 @@
         "high": 26.0,
         "low": 24.0,
         "close": 25.0,
-        "volume": 949242712
+        "volume": 13834144600
       },
       "WarrantMetrics": {
         "intrinsicValue": -26.67,
@@ -20859,7 +20859,7 @@
       "UnderlyingOHLC": {
         "date": "2026-10-23",
         "open": 25325.0,
-        "high": 25900.0,
+        "high": 26000.0,
         "low": 25175.0,
         "close": 25500.0,
         "volume": 1977800
